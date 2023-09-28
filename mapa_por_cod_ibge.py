@@ -8,7 +8,7 @@ ufs = mapa_poligono['uf_mun1'].unique()
 
 # Itere sobre cada UF e crie a matriz correspondente
 for uf in ufs:
-    # Filtrar os dados para a UF atual
+    # Filtrar os dados para a UF atual, caso queira somente no estado selecionado trocar | por &
     uf_df = mapa_poligono[(mapa_poligono['uf_mun1'] == uf) | (mapa_poligono['uf_mun2'] == uf)]
 
     # Crie uma lista de municípios únicos para a UF atual
