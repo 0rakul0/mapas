@@ -65,6 +65,3 @@ Nesta seção, o código carrega dados de um arquivo CSV contendo informações 
 5. Criar uma matriz de zeros e preenchê-la com 1s onde os municípios se tocam.
 6. Salvar a matriz em um arquivo CSV com o nome da UF.
 7. Exibir a matriz ou realizar outras operações necessárias.
-
-## Para a matriz geral
- 
