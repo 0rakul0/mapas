@@ -1,0 +1,23 @@
+,Acrelândia,Assis Brasil,Brasiléia,Bujari,Capixaba,Cruzeiro do Sul,Epitaciolândia,Feijó,Jordão,Manoel Urbano,Marechal Thaumaturgo,Mâncio Lima,Plácido de Castro,Porto Acre,Porto Walter,Rio Branco,Rodrigues Alves,Santa Rosa do Purus,Sena Madureira,Senador Guiomard,Tarauacá,Xapuri
+Acrelândia,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Assis Brasil,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Brasiléia,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+Bujari,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+Capixaba,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1
+Cruzeiro do Sul,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+Epitaciolândia,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Feijó,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0
+Jordão,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Manoel Urbano,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Marechal Thaumaturgo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Mâncio Lima,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plácido de Castro,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Porto Acre,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Porto Walter,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Rio Branco,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1
+Rodrigues Alves,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Santa Rosa do Purus,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sena Madureira,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Senador Guiomard,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Tarauacá,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+Xapuri,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
