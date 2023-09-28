@@ -45,4 +45,4 @@ if __name__ == "__main__":
 
     df_vizinhanca = pd.DataFrame(grupo)
 
-    df_vizinhanca.to_csv('vizinhos_municipios.csv', index=False, quoting=1)
+    df_vizinhanca.to_csv('data_master/vizinhos_municipios.csv', index=False, quoting=1)
