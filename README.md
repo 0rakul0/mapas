@@ -1,3 +1,9 @@
+# Origem dos dados
+
+Usei duas fontes de dados para montar o mapa de vizinha, um foi cedido pelo IPEA e o outro pelo IBGE, o link dos arquivos *.shp estão no link abixo
+[LINK_IBGE](https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/Brasil/BR/BR_Municipios_2022.zip)
+o arquivo que gera esses vizinhos municipais é mapas_ibge_shp.py
+
 # Projeto de Análise de Mapas e Matrizes
 
 Este é um projeto de análise de mapas que inclui a criação de matrizes de adjacência para representar a contiguidade de municípios em diferentes UF.
