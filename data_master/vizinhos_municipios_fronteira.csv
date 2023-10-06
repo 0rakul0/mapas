@@ -122,6 +122,7 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4102604,4205001,PR,SC,Barracão,Dionísio Cerqueira
 4103156,4102604,PR,PR,Bom Jesus do Sul,Barracão
 4103156,4124400,PR,PR,Bom Jesus do Sul,Santo Antônio do Sudoeste
+4124400,4103156,PR,PR,Santo Antônio do Sudoeste,Bom Jesus do Sul
 4104501,4119806,PR,PR,Capanema,Planalto
 4104501,4126355,PR,PR,Capanema,Serranópolis do Iguaçu
 4107538,4114609,PR,PR,Entre Rios do Oeste,Marechal Cândido Rondon
@@ -147,460 +148,54 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4119806,4104501,PR,PR,Planalto,Capanema
 4119806,4119004,PR,PR,Planalto,Pérola d'Oeste
 4120358,4119004,PR,PR,Pranchita,Pérola d'Oeste
-4121604,4103222,PR,PR,Renascença,Bom Sucesso do Sul
-4122156,4124806,PR,PR,Rio Bonito do Iguaçu,São João
-4122156,4126272,PR,PR,Rio Bonito do Iguaçu,Saudade do Iguaçu
-4122156,4126652,PR,PR,Rio Bonito do Iguaçu,Sulina
-4122602,4126801,PR,PR,Rondon,Tapejara
-4123006,4123808,PR,PR,Salto do Lontra,Santa Izabel do Oeste
-4123303,4123709,PR,PR,Santa Cruz de Monte Castelo,Santa Isabel do Ivaí
-4123709,4123303,PR,PR,Santa Isabel do Ivaí,Santa Cruz de Monte Castelo
-4123709,4123956,PR,PR,Santa Isabel do Ivaí,Santa Mônica
-4123709,4126900,PR,PR,Santa Isabel do Ivaí,Tapira
-4123808,4123006,PR,PR,Santa Izabel do Oeste,Salto do Lontra
-4123956,4123709,PR,PR,Santa Mônica,Santa Isabel do Ivaí
-4123956,4126900,PR,PR,Santa Mônica,Tapira
-4124020,4125753,PR,PR,Santa Tereza do Oeste,São Pedro do Iguaçu
-4124053,4125704,PR,PR,Santa Terezinha de Itaipu,São Miguel do Iguaçu
-4124806,4122156,PR,PR,São João,Rio Bonito do Iguaçu
-4124806,4125209,PR,PR,São João,São Jorge d'Oeste
-4124806,4126652,PR,PR,São João,Sulina
-4124806,4128609,PR,PR,São João,Verê
-4125209,4124806,PR,PR,São Jorge d'Oeste,São João
-4125209,4128609,PR,PR,São Jorge d'Oeste,Verê
-4125357,4128625,PR,PR,São Jorge do Patrocínio,Alto Paraíso
-4125704,4124053,PR,PR,São Miguel do Iguaçu,Santa Terezinha de Itaipu
+4120358,4119004,PR,PR,Pranchita,Pérola d'Oeste
+4120358,4124400,PR,PR,Pranchita,Santo Antônio do Sudoeste
 4125704,4126355,PR,PR,São Miguel do Iguaçu,Serranópolis do Iguaçu
 4125704,4110953,PR,PR,São Miguel do Iguaçu,Foz do Iguaçu
-4125753,4124020,PR,PR,São Pedro do Iguaçu,Santa Tereza do Oeste
-4125753,4128559,PR,PR,São Pedro do Iguaçu,Vera Cruz do Oeste
-4126272,4122156,PR,PR,Saudade do Iguaçu,Rio Bonito do Iguaçu
-4126272,4126652,PR,PR,Saudade do Iguaçu,Sulina
+4125704,4110953,PR,PR,São Miguel do Iguaçu,Itaipulândia
+4124400,4120358,PR,PR,Santo Antônio do Sudoeste,Pranchita
 4126355,4125704,PR,PR,Serranópolis do Iguaçu,São Miguel do Iguaçu
-4126652,4122156,PR,PR,Sulina,Rio Bonito do Iguaçu
-4126652,4124806,PR,PR,Sulina,São João
-4126652,4126272,PR,PR,Sulina,Saudade do Iguaçu
-4126801,4122602,PR,PR,Tapejara,Rondon
-4126801,4127908,PR,PR,Tapejara,Tuneiras do Oeste
-4126900,4123709,PR,PR,Tapira,Santa Isabel do Ivaí
-4126900,4123956,PR,PR,Tapira,Santa Mônica
-4127908,4126801,PR,PR,Tuneiras do Oeste,Tapejara
-4128104,4128625,PR,PR,Umuarama,Alto Paraíso
-4128104,4128807,PR,PR,Umuarama,Xambrê
-4128559,4125753,PR,PR,Vera Cruz do Oeste,São Pedro do Iguaçu
-4128609,4124806,PR,PR,Verê,São João
-4128609,4125209,PR,PR,Verê,São Jorge d'Oeste
-4128625,4125357,PR,PR,Alto Paraíso,São Jorge do Patrocínio
-4128625,4128104,PR,PR,Alto Paraíso,Umuarama
-4128625,4128807,PR,PR,Alto Paraíso,Xambrê
-4128708,4209177,PR,SC,Vitorino,Jupiá
-4128807,4128104,PR,PR,Xambrê,Umuarama
-4128807,4128625,PR,PR,Xambrê,Alto Paraíso
-4200101,4202537,SC,SC,Abelardo Luz,Bom Jesus
-4200101,4205308,SC,SC,Abelardo Luz,Faxinal dos Guedes
-4200101,4207684,SC,SC,Abelardo Luz,Ipuaçu
-4200101,4211850,SC,SC,Abelardo Luz,Ouro Verde
-4200507,4204103,SC,SC,Águas de Chapecó,Caxambu do Sul
-4200507,4211405,SC,SC,Águas de Chapecó,Nova Erechim
-4200507,4213153,SC,SC,Águas de Chapecó,Planalto Alegre
-4200556,4204400,SC,SC,Águas Frias,Coronel Freitas
-4200556,4211405,SC,SC,Águas Frias,Nova Erechim
-4200556,4212908,SC,SC,Águas Frias,Pinhalzinho
-4200804,4202099,SC,SC,Anchieta,Barra Bonita
-4200804,4203501,SC,SC,Anchieta,Campo Erê
-4200804,4206405,SC,SC,Anchieta,Guaraciaba
-4200804,4215208,SC,SC,Anchieta,Romelândia
-4201273,4204301,SC,SC,Arabutã,Concórdia
-4201273,4207700,SC,SC,Arabutã,Ipumirim
-4201273,4208005,SC,SC,Arabutã,Itá
-4201653,4204202,SC,SC,Arvoredo,Chapecó
+4126355,4104501,PR,PR,Serranópolis do Iguaçu,Capenema
 4202081,4202156,SC,SC,Bandeirante,Belmonte
-4202081,4204905,SC,SC,Bandeirante,Descanso
 4202081,4212239,SC,SC,Bandeirante,Paraíso
-4202099,4200804,SC,SC,Barra Bonita,Anchieta
-4202099,4206405,SC,SC,Barra Bonita,Guaraciaba
-4202099,4215208,SC,SC,Barra Bonita,Romelândia
 4202156,4202081,SC,SC,Belmonte,Bandeirante
-4202156,4204905,SC,SC,Belmonte,Descanso
 4202156,4215554,SC,SC,Belmonte,Santa Helena
-4202537,4200101,SC,SC,Bom Jesus,Abelardo Luz
-4202537,4205308,SC,SC,Bom Jesus,Faxinal dos Guedes
-4202537,4207684,SC,SC,Bom Jesus,Ipuaçu
-4202537,4211850,SC,SC,Bom Jesus,Ouro Verde
-4202578,4210506,SC,SC,Bom Jesus do Oeste,Maravilha
-4202578,4210902,SC,SC,Bom Jesus do Oeste,Modelo
-4202578,4215356,SC,SC,Bom Jesus do Oeste,Saltinho
-4202578,4215687,SC,SC,Bom Jesus do Oeste,Santa Terezinha do Progresso
-4203105,4204707,SC,SC,Caibi,Cunha Porã
-4203105,4207759,SC,SC,Caibi,Iraceminha
-4203105,4211009,SC,SC,Caibi,Mondaí
-4203105,4212106,SC,SC,Caibi,Palmitos
-4203105,4215075,SC,SC,Caibi,Riqueza
-4203501,4200804,SC,SC,Campo Erê,Anchieta
-4203501,4215208,SC,SC,Campo Erê,Romelândia
-4203501,4215356,SC,SC,Campo Erê,Saltinho
-4203501,4215687,SC,SC,Campo Erê,Santa Terezinha do Progresso
-4204103,4200507,SC,SC,Caxambu do Sul,Águas de Chapecó
-4204103,4206652,SC,SC,Caxambu do Sul,Guatambú
-4204103,4213153,SC,SC,Caxambu do Sul,Planalto Alegre
-4204202,4201653,SC,SC,Chapecó,Arvoredo
-4204202,4204350,SC,SC,Chapecó,Cordilheira Alta
-4204202,4204400,SC,SC,Chapecó,Coronel Freitas
-4204202,4206652,SC,SC,Chapecó,Guatambú
-4204202,4211454,SC,SC,Chapecó,Nova Itaberaba
-4204202,4211876,SC,SC,Chapecó,Paial
-4204202,4213153,SC,SC,Chapecó,Planalto Alegre
-4204301,4201273,SC,SC,Concórdia,Arabutã
-4204301,4207700,SC,SC,Concórdia,Ipumirim
-4204301,4208005,SC,SC,Concórdia,Itá
-4204350,4204202,SC,SC,Cordilheira Alta,Chapecó
-4204350,4204400,SC,SC,Cordilheira Alta,Coronel Freitas
-4204400,4200556,SC,SC,Coronel Freitas,Águas Frias
-4204400,4204202,SC,SC,Coronel Freitas,Chapecó
-4204400,4204350,SC,SC,Coronel Freitas,Cordilheira Alta
-4204400,4209458,SC,SC,Coronel Freitas,Lajeado Grande
-4204400,4210555,SC,SC,Coronel Freitas,Marema
-4204400,4211405,SC,SC,Coronel Freitas,Nova Erechim
-4204400,4211454,SC,SC,Coronel Freitas,Nova Itaberaba
-4204400,4214201,SC,SC,Coronel Freitas,Quilombo
-4204459,4205605,SC,SC,Coronel Martins,Galvão
-4204459,4211652,SC,SC,Coronel Martins,Novo Horizonte
-4204459,4215695,SC,SC,Coronel Martins,Santiago do Sul
-4204707,4203105,SC,SC,Cunha Porã,Caibi
-4204707,4204756,SC,SC,Cunha Porã,Cunhataí
-4204707,4207759,SC,SC,Cunha Porã,Iraceminha
-4204707,4210506,SC,SC,Cunha Porã,Maravilha
-4204707,4210902,SC,SC,Cunha Porã,Modelo
-4204707,4212106,SC,SC,Cunha Porã,Palmitos
-4204756,4204707,SC,SC,Cunhataí,Cunha Porã
-4204756,4212106,SC,SC,Cunhataí,Palmitos
-4204905,4202081,SC,SC,Descanso,Bandeirante
-4204905,4202156,SC,SC,Descanso,Belmonte
-4204905,4205357,SC,SC,Descanso,Flor do Sertão
-4204905,4207650,SC,SC,Descanso,Iporã do Oeste
-4204905,4207759,SC,SC,Descanso,Iraceminha
-4204905,4215075,SC,SC,Descanso,Riqueza
-4204905,4215554,SC,SC,Descanso,Santa Helena
-4205001,4206603,SC,SC,Dionísio Cerqueira,Guarujá do Sul
+4205001,4102604,SC,PR,Dionísio Cerqueira,Barracão
 4205001,4214151,SC,SC,Dionísio Cerqueira,Princesa
-4205175,4207684,SC,SC,Entre Rios,Ipuaçu
-4205175,4209458,SC,SC,Entre Rios,Lajeado Grande
-4205175,4210555,SC,SC,Entre Rios,Marema
-4205175,4214201,SC,SC,Entre Rios,Quilombo
-4205308,4200101,SC,SC,Faxinal dos Guedes,Abelardo Luz
-4205308,4202537,SC,SC,Faxinal dos Guedes,Bom Jesus
-4205308,4207700,SC,SC,Faxinal dos Guedes,Ipumirim
-4205308,4211850,SC,SC,Faxinal dos Guedes,Ouro Verde
-4205357,4204905,SC,SC,Flor do Sertão,Descanso
-4205357,4207759,SC,SC,Flor do Sertão,Iraceminha
-4205357,4210506,SC,SC,Flor do Sertão,Maravilha
-4205357,4215208,SC,SC,Flor do Sertão,Romelândia
-4205431,4207858,SC,SC,Formosa do Sul,Irati
-4205431,4208955,SC,SC,Formosa do Sul,Jardinópolis
-4205431,4211652,SC,SC,Formosa do Sul,Novo Horizonte
-4205431,4214201,SC,SC,Formosa do Sul,Quilombo
-4205431,4215695,SC,SC,Formosa do Sul,Santiago do Sul
-4205605,4204459,SC,SC,Galvão,Coronel Martins
-4205605,4209177,SC,SC,Galvão,Jupiá
-4205605,4211652,SC,SC,Galvão,Novo Horizonte
-4206405,4200804,SC,SC,Guaraciaba,Anchieta
-4206405,4202099,SC,SC,Guaraciaba,Barra Bonita
 4206405,4212239,SC,SC,Guaraciaba,Paraíso
-4206603,4205001,SC,SC,Guarujá do Sul,Dionísio Cerqueira
-4206603,4214151,SC,SC,Guarujá do Sul,Princesa
-4206652,4204103,SC,SC,Guatambú,Caxambu do Sul
-4206652,4204202,SC,SC,Guatambú,Chapecó
-4206652,4213153,SC,SC,Guatambú,Planalto Alegre
-4207650,4204905,SC,SC,Iporã do Oeste,Descanso
-4207650,4211009,SC,SC,Iporã do Oeste,Mondaí
-4207650,4215075,SC,SC,Iporã do Oeste,Riqueza
-4207650,4215554,SC,SC,Iporã do Oeste,Santa Helena
-4207684,4200101,SC,SC,Ipuaçu,Abelardo Luz
-4207684,4202537,SC,SC,Ipuaçu,Bom Jesus
-4207684,4205175,SC,SC,Ipuaçu,Entre Rios
-4207684,4209458,SC,SC,Ipuaçu,Lajeado Grande
-4207700,4201273,SC,SC,Ipumirim,Arabutã
-4207700,4204301,SC,SC,Ipumirim,Concórdia
-4207700,4205308,SC,SC,Ipumirim,Faxinal dos Guedes
-4207700,4213401,SC,SC,Ipumirim,Ponte Serrada
-4207759,4203105,SC,SC,Iraceminha,Caibi
-4207759,4204707,SC,SC,Iraceminha,Cunha Porã
-4207759,4204905,SC,SC,Iraceminha,Descanso
-4207759,4205357,SC,SC,Iraceminha,Flor do Sertão
-4207759,4210506,SC,SC,Iraceminha,Maravilha
-4207759,4215075,SC,SC,Iraceminha,Riqueza
-4207858,4205431,SC,SC,Irati,Formosa do Sul
-4207858,4208955,SC,SC,Irati,Jardinópolis
-4207858,4215356,SC,SC,Irati,Saltinho
-4208005,4201273,SC,SC,Itá,Arabutã
-4208005,4204301,SC,SC,Itá,Concórdia
-4208005,4211876,SC,SC,Itá,Paial
-4208401,4211009,SC,SC,Itapiranga,Mondaí
-4208955,4205431,SC,SC,Jardinópolis,Formosa do Sul
-4208955,4207858,SC,SC,Jardinópolis,Irati
-4208955,4214201,SC,SC,Jardinópolis,Quilombo
-4209177,4128708,SC,PR,Jupiá,Vitorino
-4209177,4205605,SC,SC,Jupiá,Galvão
-4209177,4211652,SC,SC,Jupiá,Novo Horizonte
-4209458,4204400,SC,SC,Lajeado Grande,Coronel Freitas
-4209458,4205175,SC,SC,Lajeado Grande,Entre Rios
-4209458,4207684,SC,SC,Lajeado Grande,Ipuaçu
-4209458,4210555,SC,SC,Lajeado Grande,Marema
-4210506,4202578,SC,SC,Maravilha,Bom Jesus do Oeste
-4210506,4204707,SC,SC,Maravilha,Cunha Porã
-4210506,4205357,SC,SC,Maravilha,Flor do Sertão
-4210506,4207759,SC,SC,Maravilha,Iraceminha
-4210506,4210902,SC,SC,Maravilha,Modelo
-4210555,4204400,SC,SC,Marema,Coronel Freitas
-4210555,4205175,SC,SC,Marema,Entre Rios
-4210555,4209458,SC,SC,Marema,Lajeado Grande
-4210555,4214201,SC,SC,Marema,Quilombo
-4210902,4202578,SC,SC,Modelo,Bom Jesus do Oeste
-4210902,4204707,SC,SC,Modelo,Cunha Porã
-4210902,4210506,SC,SC,Modelo,Maravilha
-4210902,4212908,SC,SC,Modelo,Pinhalzinho
-4211009,4203105,SC,SC,Mondaí,Caibi
-4211009,4207650,SC,SC,Mondaí,Iporã do Oeste
-4211009,4208401,SC,SC,Mondaí,Itapiranga
-4211009,4215075,SC,SC,Mondaí,Riqueza
-4211405,4200507,SC,SC,Nova Erechim,Águas de Chapecó
-4211405,4200556,SC,SC,Nova Erechim,Águas Frias
-4211405,4204400,SC,SC,Nova Erechim,Coronel Freitas
-4211405,4211454,SC,SC,Nova Erechim,Nova Itaberaba
-4211405,4212908,SC,SC,Nova Erechim,Pinhalzinho
-4211405,4213153,SC,SC,Nova Erechim,Planalto Alegre
-4211454,4204202,SC,SC,Nova Itaberaba,Chapecó
-4211454,4204400,SC,SC,Nova Itaberaba,Coronel Freitas
-4211454,4211405,SC,SC,Nova Itaberaba,Nova Erechim
-4211454,4213153,SC,SC,Nova Itaberaba,Planalto Alegre
-4211652,4204459,SC,SC,Novo Horizonte,Coronel Martins
-4211652,4205431,SC,SC,Novo Horizonte,Formosa do Sul
-4211652,4205605,SC,SC,Novo Horizonte,Galvão
-4211652,4209177,SC,SC,Novo Horizonte,Jupiá
-4211652,4215695,SC,SC,Novo Horizonte,Santiago do Sul
-4211850,4200101,SC,SC,Ouro Verde,Abelardo Luz
-4211850,4202537,SC,SC,Ouro Verde,Bom Jesus
-4211850,4205308,SC,SC,Ouro Verde,Faxinal dos Guedes
-4211876,4204202,SC,SC,Paial,Chapecó
-4211876,4208005,SC,SC,Paial,Itá
-4212106,4203105,SC,SC,Palmitos,Caibi
-4212106,4204707,SC,SC,Palmitos,Cunha Porã
-4212106,4204756,SC,SC,Palmitos,Cunhataí
+4206405,4216701,SC,SC,Guaraciaba,São José do Cedro
+4208401,4218756,SC,SC,Itapiranga,Tunápolis
+4208401,4306320,SC,RS,Itapiranga,Derrubadas
 4212239,4202081,SC,SC,Paraíso,Bandeirante
 4212239,4206405,SC,SC,Paraíso,Guaraciaba
-4212908,4200556,SC,SC,Pinhalzinho,Águas Frias
-4212908,4210902,SC,SC,Pinhalzinho,Modelo
-4212908,4211405,SC,SC,Pinhalzinho,Nova Erechim
-4213153,4200507,SC,SC,Planalto Alegre,Águas de Chapecó
-4213153,4204103,SC,SC,Planalto Alegre,Caxambu do Sul
-4213153,4204202,SC,SC,Planalto Alegre,Chapecó
-4213153,4206652,SC,SC,Planalto Alegre,Guatambú
-4213153,4211405,SC,SC,Planalto Alegre,Nova Erechim
-4213153,4211454,SC,SC,Planalto Alegre,Nova Itaberaba
-4213401,4207700,SC,SC,Ponte Serrada,Ipumirim
 4214151,4205001,SC,SC,Princesa,Dionísio Cerqueira
-4214151,4206603,SC,SC,Princesa,Guarujá do Sul
-4214201,4204400,SC,SC,Quilombo,Coronel Freitas
-4214201,4205175,SC,SC,Quilombo,Entre Rios
-4214201,4205431,SC,SC,Quilombo,Formosa do Sul
-4214201,4208955,SC,SC,Quilombo,Jardinópolis
-4214201,4210555,SC,SC,Quilombo,Marema
-4214201,4215695,SC,SC,Quilombo,Santiago do Sul
-4215075,4203105,SC,SC,Riqueza,Caibi
-4215075,4204905,SC,SC,Riqueza,Descanso
-4215075,4207650,SC,SC,Riqueza,Iporã do Oeste
-4215075,4207759,SC,SC,Riqueza,Iraceminha
-4215075,4211009,SC,SC,Riqueza,Mondaí
-4215208,4200804,SC,SC,Romelândia,Anchieta
-4215208,4202099,SC,SC,Romelândia,Barra Bonita
-4215208,4203501,SC,SC,Romelândia,Campo Erê
-4215208,4205357,SC,SC,Romelândia,Flor do Sertão
-4215208,4215687,SC,SC,Romelândia,Santa Terezinha do Progresso
-4215356,4202578,SC,SC,Saltinho,Bom Jesus do Oeste
-4215356,4203501,SC,SC,Saltinho,Campo Erê
-4215356,4207858,SC,SC,Saltinho,Irati
-4215356,4215687,SC,SC,Saltinho,Santa Terezinha do Progresso
+4214151,4216701,SC,SC,Princesa,São José do Cedro
 4215554,4202156,SC,SC,Santa Helena,Belmonte
-4215554,4204905,SC,SC,Santa Helena,Descanso
-4215554,4207650,SC,SC,Santa Helena,Iporã do Oeste
-4215687,4202578,SC,SC,Santa Terezinha do Progresso,Bom Jesus do Oeste
-4215687,4203501,SC,SC,Santa Terezinha do Progresso,Campo Erê
-4215687,4215208,SC,SC,Santa Terezinha do Progresso,Romelândia
-4215687,4215356,SC,SC,Santa Terezinha do Progresso,Saltinho
-4215695,4204459,SC,SC,Santiago do Sul,Coronel Martins
-4215695,4205431,SC,SC,Santiago do Sul,Formosa do Sul
-4215695,4211652,SC,SC,Santiago do Sul,Novo Horizonte
-4215695,4214201,SC,SC,Santiago do Sul,Quilombo
-4215752,4216909,SC,SC,São Bernardino,São Lourenço do Oeste
-4216008,4217303,SC,SC,São Carlos,Saudades
-4216008,4300505,SC,RS,São Carlos,Alpestre
-4216255,4218756,SC,SC,São João do Oeste,Tunápolis
-4216909,4215752,SC,SC,São Lourenço do Oeste,São Bernardino
-4217154,4217956,SC,SC,São Miguel da Boa Vista,Tigrinhos
-4217303,4216008,SC,SC,Saudades,São Carlos
-4217501,4219606,SC,SC,Seara,Xavantina
-4217550,4217758,SC,SC,Serra Alta,Sul Brasil
-4217758,4217550,SC,SC,Sul Brasil,Serra Alta
-4217758,4218855,SC,SC,Sul Brasil,União do Oeste
-4217956,4217154,SC,SC,Tigrinhos,São Miguel da Boa Vista
-4218756,4216255,SC,SC,Tunápolis,São João do Oeste
-4218855,4217758,SC,SC,União do Oeste,Sul Brasil
-4219507,4219606,SC,SC,Xanxerê,Xavantina
-4219507,4219705,SC,SC,Xanxerê,Xaxim
-4219606,4217501,SC,SC,Xavantina,Seara
-4219606,4219507,SC,SC,Xavantina,Xanxerê
-4219705,4219507,SC,SC,Xaxim,Xanxerê
+4215554,4218756,SC,SC,Santa Helena,Tunápolis
+4216701,4206405,SC,SC,São José do Cedro,Guaraciaba
+4218756,4215554,SC,SC,Tunápolis,Santa Helena
+4218756,4208401,SC,SC,Tunápolis,Itapiranga
 4300001,4301305,RS,RS,Lagoa Mirim,Arroio Grande
 4300034,4301602,RS,RS,Aceguá,Bagé
-4300034,4304358,RS,RS,Aceguá,Candiota
-4300034,4309654,RS,RS,Aceguá,Hulha Negra
-4300208,4302584,RS,RS,Ajuricaba,Bozano
-4300208,4305702,RS,RS,Ajuricaba,Condor
-4300406,4302907,RS,RS,Alegrete,Cacequi
-4300471,4304705,RS,RS,Almirante Tamandaré do Sul,Carazinho
-4300471,4305306,RS,RS,Almirante Tamandaré do Sul,Chapada
-4300471,4305850,RS,RS,Almirante Tamandaré do Sul,Coqueiros do Sul
-4300505,4216008,RS,SC,Alpestre,São Carlos
-4300646,4306072,RS,RS,Ametista do Sul,Cristal do Sul
-4300646,4308508,RS,RS,Ametista do Sul,Frederico Westphalen
-4300901,4301701,RS,RS,Aratiba,Barão de Cotegipe
-4300901,4301925,RS,RS,Aratiba,Barra do Rio Azul
-4300901,4307005,RS,RS,Aratiba,Erechim
+4300034,4312175,RS,RS,Aceguá,Pedras Altas
 4301305,4300001,RS,RS,Arroio Grande,Lagoa Mirim
-4301305,4304663,RS,RS,Arroio Grande,Capão do Leão
 4301305,4307104,RS,RS,Arroio Grande,Herval
-4301503,4302220,RS,RS,Augusto Pestana,Boa Vista do Cadeado
-4301503,4305871,RS,RS,Augusto Pestana,Coronel Barros
-4301503,4307831,RS,RS,Augusto Pestana,Eugênio de Castro
+4301305,4311007,RS,RS,Arroio Grande,Jaguarão
+4301305,4315602,RS,RS,Arroio Grande,Rio Grande
 4301602,4300034,RS,RS,Bagé,Aceguá
-4301602,4302808,RS,RS,Bagé,Caçapava do Sul
-4301602,4304358,RS,RS,Bagé,Candiota
 4301602,4306601,RS,RS,Bagé,Dom Pedrito
-4301602,4309654,RS,RS,Bagé,Hulha Negra
-4301701,4300901,RS,RS,Barão de Cotegipe,Aratiba
-4301701,4301925,RS,RS,Barão de Cotegipe,Barra do Rio Azul
-4301701,4307005,RS,RS,Barão de Cotegipe,Erechim
-4301859,4306320,RS,RS,Barra do Guarita,Derrubadas
-4301925,4300901,RS,RS,Barra do Rio Azul,Aratiba
-4301925,4301701,RS,RS,Barra do Rio Azul,Barão de Cotegipe
-4301958,4305306,RS,RS,Barra Funda,Chapada
-4302055,4306957,RS,RS,Benjamin Constant do Sul,Entre Rios do Sul
-4302055,4307203,RS,RS,Benjamin Constant do Sul,Erval Grande
-4302055,4308052,RS,RS,Benjamin Constant do Sul,Faxinalzinho
-4302154,4306429,RS,RS,Boa Vista das Missões,Dois Irmãos das Missões
-4302154,4307302,RS,RS,Boa Vista das Missões,Erval Seco
-4302204,4309704,RS,RS,Boa Vista do Buricá,Humaitá
-4302220,4301503,RS,RS,Boa Vista do Cadeado,Augusto Pestana
-4302220,4302584,RS,RS,Boa Vista do Cadeado,Bozano
-4302220,4306106,RS,RS,Boa Vista do Cadeado,Cruz Alta
-4302378,4302600,RS,RS,Bom Progresso,Braga
-4302378,4304002,RS,RS,Bom Progresso,Campo Novo
-4302378,4309704,RS,RS,Bom Progresso,Humaitá
-4302501,4304655,RS,RS,Bossoroca,Capão do Cipó
-4302584,4300208,RS,RS,Bozano,Ajuricaba
-4302584,4302220,RS,RS,Bozano,Boa Vista do Cadeado
-4302600,4302378,RS,RS,Braga,Bom Progresso
-4302600,4304002,RS,RS,Braga,Campo Novo
-4302600,4305900,RS,RS,Braga,Coronel Bicaco
-4302808,4301602,RS,RS,Caçapava do Sul,Bagé
-4302907,4300406,RS,RS,Cacequi,Alegrete
-4303301,4309506,RS,RS,Caibaté,Guarani das Missões
-4303400,4308508,RS,RS,Caiçara,Frederico Westphalen
-4303707,4304309,RS,RS,Campina das Missões,Cândido Godói
-4303707,4305207,RS,RS,Campina das Missões,Cerro Largo
-4303806,4306130,RS,RS,Campinas do Sul,Cruzaltense
-4304002,4302378,RS,RS,Campo Novo,Bom Progresso
-4304002,4302600,RS,RS,Campo Novo,Braga
-4304002,4305900,RS,RS,Campo Novo,Coronel Bicaco
-4304002,4309704,RS,RS,Campo Novo,Humaitá
-4304309,4303707,RS,RS,Cândido Godói,Campina das Missões
-4304358,4300034,RS,RS,Candiota,Aceguá
-4304358,4301602,RS,RS,Candiota,Bagé
-4304358,4309654,RS,RS,Candiota,Hulha Negra
-4304507,4305124,RS,RS,Canguçu,Cerrito
-4304507,4306908,RS,RS,Canguçu,Encruzilhada do Sul
-4304655,4302501,RS,RS,Capão do Cipó,Bossoroca
-4304663,4301305,RS,RS,Capão do Leão,Arroio Grande
-4304663,4305124,RS,RS,Capão do Leão,Cerrito
-4304705,4300471,RS,RS,Carazinho,Almirante Tamandaré do Sul
-4304705,4305306,RS,RS,Carazinho,Chapada
-4304705,4305850,RS,RS,Carazinho,Coqueiros do Sul
-4305009,4305405,RS,RS,Catuípe,Chiapetta
-4305009,4305871,RS,RS,Catuípe,Coronel Barros
-4305009,4306932,RS,RS,Catuípe,Entre-Ijuís
-4305009,4309001,RS,RS,Catuípe,Giruá
-4305124,4304507,RS,RS,Cerrito,Canguçu
-4305124,4304663,RS,RS,Cerrito,Capão do Leão
-4305157,4305801,RS,RS,Cerro Grande,Constantina
-4305207,4303707,RS,RS,Cerro Largo,Campina das Missões
-4305207,4309506,RS,RS,Cerro Largo,Guarani das Missões
-4305306,4300471,RS,RS,Chapada,Almirante Tamandaré do Sul
-4305306,4301958,RS,RS,Chapada,Barra Funda
-4305306,4304705,RS,RS,Chapada,Carazinho
-4305405,4305009,RS,RS,Chiapetta,Catuípe
-4305702,4300208,RS,RS,Condor,Ajuricaba
-4305801,4305157,RS,RS,Constantina,Cerro Grande
-4305801,4306924,RS,RS,Constantina,Engenho Velho
-4305850,4300471,RS,RS,Coqueiros do Sul,Almirante Tamandaré do Sul
-4305850,4304705,RS,RS,Coqueiros do Sul,Carazinho
-4305871,4301503,RS,RS,Coronel Barros,Augusto Pestana
-4305871,4305009,RS,RS,Coronel Barros,Catuípe
-4305871,4306932,RS,RS,Coronel Barros,Entre-Ijuís
-4305871,4307831,RS,RS,Coronel Barros,Eugênio de Castro
-4305900,4302600,RS,RS,Coronel Bicaco,Braga
-4305900,4304002,RS,RS,Coronel Bicaco,Campo Novo
-4305900,4306429,RS,RS,Coronel Bicaco,Dois Irmãos das Missões
 4306007,4306734,RS,RS,Crissiumal,Doutor Maurício Cardoso
-4306007,4309605,RS,RS,Crissiumal,Horizontina
-4306007,4309704,RS,RS,Crissiumal,Humaitá
-4306072,4300646,RS,RS,Cristal do Sul,Ametista do Sul
-4306072,4308508,RS,RS,Cristal do Sul,Frederico Westphalen
-4306106,4302220,RS,RS,Cruz Alta,Boa Vista do Cadeado
-4306130,4303806,RS,RS,Cruzaltense,Campinas do Sul
-4306130,4306957,RS,RS,Cruzaltense,Entre Rios do Sul
-4306320,4301859,RS,RS,Derrubadas,Barra do Guarita
+4306007,4321477,RS,RS,Crissiumal,Tiradentes do Sul
 4306320,4307450,RS,RS,Derrubadas,Esperança do Sul
-4306429,4302154,RS,RS,Dois Irmãos das Missões,Boa Vista das Missões
-4306429,4305900,RS,RS,Dois Irmãos das Missões,Coronel Bicaco
-4306429,4307302,RS,RS,Dois Irmãos das Missões,Erval Seco
+4306320,4208401,RS,SC,Derrubadas,Itapiranga
 4306601,4301602,RS,RS,Dom Pedrito,Bagé
+4306601,4317103,RS,RS,Dom Pedrito,Sant'Ana do Livramento
 4306734,4306007,RS,RS,Doutor Maurício Cardoso,Crissiumal
-4306734,4309605,RS,RS,Doutor Maurício Cardoso,Horizontina
-4306908,4304507,RS,RS,Encruzilhada do Sul,Canguçu
-4306924,4305801,RS,RS,Engenho Velho,Constantina
-4306932,4305009,RS,RS,Entre-Ijuís,Catuípe
-4306932,4305871,RS,RS,Entre-Ijuís,Coronel Barros
-4306932,4307831,RS,RS,Entre-Ijuís,Eugênio de Castro
-4306957,4302055,RS,RS,Entre Rios do Sul,Benjamin Constant do Sul
-4306957,4306130,RS,RS,Entre Rios do Sul,Cruzaltense
-4307005,4300901,RS,RS,Erechim,Aratiba
-4307005,4301701,RS,RS,Erechim,Barão de Cotegipe
+4306734,4313425,RS,RS,Doutor Maurício Cardoso,Novo Machado
 4307104,4301305,RS,RS,Herval,Arroio Grande
-4307203,4302055,RS,RS,Erval Grande,Benjamin Constant do Sul
-4307203,4308052,RS,RS,Erval Grande,Faxinalzinho
-4307302,4302154,RS,RS,Erval Seco,Boa Vista das Missões
-4307302,4306429,RS,RS,Erval Seco,Dois Irmãos das Missões
+4307104,4314175,RS,RS,Herval,Pedras Altas
+4307104,4311007,RS,RS,Herval,Jaguarão
 4307450,4306320,RS,RS,Esperança do Sul,Derrubadas
-4307831,4301503,RS,RS,Eugênio de Castro,Augusto Pestana
-4307831,4305871,RS,RS,Eugênio de Castro,Coronel Barros
-4307831,4306932,RS,RS,Eugênio de Castro,Entre-Ijuís
-4308052,4302055,RS,RS,Faxinalzinho,Benjamin Constant do Sul
-4308052,4307203,RS,RS,Faxinalzinho,Erval Grande
-4308508,4300646,RS,RS,Frederico Westphalen,Ametista do Sul
-4308508,4303400,RS,RS,Frederico Westphalen,Caiçara
-4308508,4306072,RS,RS,Frederico Westphalen,Cristal do Sul
-4309001,4305009,RS,RS,Giruá,Catuípe
-4309506,4303301,RS,RS,Guarani das Missões,Caibaté
-4309506,4305207,RS,RS,Guarani das Missões,Cerro Largo
-4309605,4306007,RS,RS,Horizontina,Crissiumal
-4309605,4306734,RS,RS,Horizontina,Doutor Maurício Cardoso
-4309654,4300034,RS,RS,Hulha Negra,Aceguá
-4309654,4301602,RS,RS,Hulha Negra,Bagé
-4309654,4304358,RS,RS,Hulha Negra,Candiota
-4309704,4302204,RS,RS,Humaitá,Boa Vista do Buricá
-4309704,4302378,RS,RS,Humaitá,Bom Progresso
-4309704,4304002,RS,RS,Humaitá,Campo Novo
-4309704,4306007,RS,RS,Humaitá,Crissiumal
 4310207,4313334,RS,RS,Ijuí,Nova Ramada
 4310405,4310413,RS,RS,Independência,Inhacorá
 4310413,4310405,RS,RS,Inhacorá,Independência
@@ -623,8 +218,8 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4310900,4316105,RS,RS,Jacutinga,Ronda Alta
 4311106,4313037,RS,RS,Jaguari,Nova Esperança do Sul
 4311106,4317400,RS,RS,Jaguari,Santiago
-4311106,4318101,RS,RS,Jaguari,São Francisco de Assis
-4311106,4319802,RS,RS,Jaguari,São Vicente do Sul
+4311007,4301305,RS,RS,Jaguarão,Arroio Grande
+4311007,4307104,RS,RS,Jaguarão,Herval
 4311155,4319158,RS,RS,Jóia,São Miguel das Missões
 4311429,4310850,RS,RS,Lajeado do Bugre,Jaboticaba
 4311429,4316428,RS,RS,Lajeado do Bugre,Sagrada Família
@@ -638,10 +233,8 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4311718,4310603,RS,RS,Maçambará,Itaqui
 4311718,4311759,RS,RS,Maçambará,Manoel Viana
 4311718,4318002,RS,RS,Maçambará,São Borja
-4311718,4318101,RS,RS,Maçambará,São Francisco de Assis
 4311759,4310603,RS,RS,Manoel Viana,Itaqui
 4311759,4311718,RS,RS,Manoel Viana,Maçambará
-4311759,4318101,RS,RS,Manoel Viana,São Francisco de Assis
 4312179,4315958,RS,RS,Mato Queimado,Rolador
 4312302,4315404,RS,RS,Miraguaí,Redentora
 4312450,4314407,RS,RS,Morro Redondo,Pelotas
@@ -652,7 +245,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4312955,4320107,RS,RS,Nova Boa Vista,Sarandi
 4313037,4311106,RS,RS,Nova Esperança do Sul,Jaguari
 4313037,4317400,RS,RS,Nova Esperança do Sul,Santiago
-4313037,4318101,RS,RS,Nova Esperança do Sul,São Francisco de Assis
 4313334,4310207,RS,RS,Nova Ramada,Ijuí
 4313334,4313706,RS,RS,Nova Ramada,Palmeira das Missões
 4313334,4317806,RS,RS,Nova Ramada,Santo Augusto
@@ -682,7 +274,7 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4314134,4314787,RS,RS,Paulo Bento,Ponte Preta
 4314134,4315313,RS,RS,Paulo Bento,Quatro Irmãos
 4314175,4314506,RS,RS,Pedras Altas,Pinheiro Machado
-4314209,4314605,RS,RS,Pedro Osório,Piratini
+4314175,4307104,RS,RS,Pedras Altas,Herval
 4314308,4313904,RS,RS,Pejuçara,Panambi
 4314308,4316709,RS,RS,Pejuçara,Santa Bárbara do Sul
 4314407,4312450,RS,RS,Pelotas,Morro Redondo
@@ -698,7 +290,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4314506,4317004,RS,RS,Pinheiro Machado,Santana da Boa Vista
 4314555,4316303,RS,RS,Pirapó,Roque Gonzales
 4314555,4319208,RS,RS,Pirapó,São Nicolau
-4314605,4314209,RS,RS,Piratini,Pedro Osório
 4314605,4314506,RS,RS,Piratini,Pinheiro Machado
 4314605,4317004,RS,RS,Piratini,Santana da Boa Vista
 4314704,4310504,RS,RS,Planalto,Iraí
@@ -721,7 +312,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4315107,4315008,RS,RS,Porto Xavier,Porto Lucena
 4315107,4316303,RS,RS,Porto Xavier,Roque Gonzales
 4315107,4319307,RS,RS,Porto Xavier,São Paulo das Missões
-4315305,4316402,RS,RS,Quaraí,Rosário do Sul
 4315305,4317103,RS,RS,Quaraí,Sant'Ana do Livramento
 4315313,4310900,RS,RS,Quatro Irmãos,Jacutinga
 4315313,4314134,RS,RS,Quatro Irmãos,Paulo Bento
@@ -732,6 +322,7 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4315552,4312708,RS,RS,Rio dos Índios,Nonoai
 4315602,4314407,RS,RS,Rio Grande,Pelotas
 4315602,4317301,RS,RS,Rio Grande,Santa Vitória do Palmar
+4315602,4301305,RS,RS,Rio Grande,Arroio Grande
 4315909,4311601,RS,RS,Rodeio Bonito,Liberato Salzano
 4315909,4312708,RS,RS,Rodeio Bonito,Nonoai
 4315909,4313441,RS,RS,Rodeio Bonito,Novo Tiradentes
@@ -756,9 +347,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4316303,4318903,RS,RS,Roque Gonzales,São Luiz Gonzaga
 4316303,4319307,RS,RS,Roque Gonzales,São Paulo das Missões
 4316303,4319372,RS,RS,Roque Gonzales,São Pedro do Butiá
-4316402,4315305,RS,RS,Rosário do Sul,Quaraí
-4316402,4317103,RS,RS,Rosário do Sul,Sant'Ana do Livramento
-4316402,4318309,RS,RS,Rosário do Sul,São Gabriel
 4316428,4311429,RS,RS,Sagrada Família,Lajeado do Bugre
 4316428,4313466,RS,RS,Sagrada Família,Novo Xingu
 4316428,4318457,RS,RS,Sagrada Família,São José das Missões
@@ -776,14 +364,12 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4317004,4314506,RS,RS,Santana da Boa Vista,Pinheiro Machado
 4317004,4314605,RS,RS,Santana da Boa Vista,Piratini
 4317103,4315305,RS,RS,Sant'Ana do Livramento,Quaraí
-4317103,4316402,RS,RS,Sant'Ana do Livramento,Rosário do Sul
 4317202,4317905,RS,RS,Santa Rosa,Santo Cristo
 4317202,4320321,RS,RS,Santa Rosa,Senador Salgado Filho
 4317301,4315602,RS,RS,Santa Vitória do Palmar,Rio Grande
 4317400,4310553,RS,RS,Santiago,Itacurubi
 4317400,4311106,RS,RS,Santiago,Jaguari
 4317400,4313037,RS,RS,Santiago,Nova Esperança do Sul
-4317400,4318101,RS,RS,Santiago,São Francisco de Assis
 4317509,4320578,RS,RS,Santo Ângelo,Sete de Setembro
 4317707,4310553,RS,RS,Santo Antônio das Missões,Itacurubi
 4317707,4318002,RS,RS,Santo Antônio das Missões,São Borja
@@ -800,14 +386,7 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4318002,4310603,RS,RS,São Borja,Itaqui
 4318002,4311718,RS,RS,São Borja,Maçambará
 4318002,4317707,RS,RS,São Borja,Santo Antônio das Missões
-4318101,4311106,RS,RS,São Francisco de Assis,Jaguari
-4318101,4311718,RS,RS,São Francisco de Assis,Maçambará
-4318101,4311759,RS,RS,São Francisco de Assis,Manoel Viana
-4318101,4313037,RS,RS,São Francisco de Assis,Nova Esperança do Sul
-4318101,4317400,RS,RS,São Francisco de Assis,Santiago
-4318101,4319802,RS,RS,São Francisco de Assis,São Vicente do Sul
 4318309,4311502,RS,RS,São Gabriel,Lavras do Sul
-4318309,4316402,RS,RS,São Gabriel,Rosário do Sul
 4318309,4316972,RS,RS,São Gabriel,Santa Margarida do Sul
 4318309,4319604,RS,RS,São Gabriel,São Sepé
 4318457,4313466,RS,RS,São José das Missões,Novo Xingu
@@ -852,8 +431,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4319737,4310413,RS,RS,São Valério do Sul,Inhacorá
 4319737,4317806,RS,RS,São Valério do Sul,Santo Augusto
 4319737,4319109,RS,RS,São Valério do Sul,São Martinho
-4319802,4311106,RS,RS,São Vicente do Sul,Jaguari
-4319802,4318101,RS,RS,São Vicente do Sul,São Francisco de Assis
 4320107,4312955,RS,RS,Sarandi,Nova Boa Vista
 4320107,4313466,RS,RS,Sarandi,Novo Xingu
 4320107,4313490,RS,RS,Sarandi,Novo Barreiro
@@ -876,6 +453,7 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4321402,4321907,RS,RS,Tenente Portela,Três Passos
 4321402,4323705,RS,RS,Tenente Portela,Vista Gaúcha
 4321477,4321907,RS,RS,Tiradentes do Sul,Três Passos
+4321477,4306007,RS,RS,Tiradentes do Sul,Crissiumal
 4321808,4322103,RS,RS,Três de Maio,Tucunduva
 4321857,4321956,RS,RS,Três Palmeiras,Trindade do Sul
 4321907,4321402,RS,RS,Três Passos,Tenente Portela
@@ -885,368 +463,37 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4322103,4322301,RS,RS,Tucunduva,Tuparendi
 4322301,4322103,RS,RS,Tuparendi,Tucunduva
 4323705,4321402,RS,RS,Vista Gaúcha,Tenente Portela
-5000609,5001243,MS,MS,Amambai,Aral Moreira
-5000609,5002407,MS,MS,Amambai,Caarapó
-5000609,5003157,MS,MS,Amambai,Coronel Sapucaia
-5000609,5004304,MS,MS,Amambai,Iguatemi
-5000609,5005152,MS,MS,Amambai,Juti
-5000609,5005251,MS,MS,Amambai,Laguna Carapã
-5000609,5007950,MS,MS,Amambai,Tacuru
-5000708,5001102,MS,MS,Anastácio,Aquidauana
-5000708,5002209,MS,MS,Anastácio,Bonito
-5000708,5003488,MS,MS,Anastácio,Dois Irmãos do Buriti
-5000708,5005400,MS,MS,Anastácio,Maracaju
-5000708,5005608,MS,MS,Anastácio,Miranda
-5000708,5005806,MS,MS,Anastácio,Nioaque
 5000906,5002100,MS,MS,Antônio João,Bela Vista
 5000906,5006606,MS,MS,Antônio João,Ponta Porã
-5001102,5000708,MS,MS,Aquidauana,Anastácio
-5001102,5003207,MS,MS,Aquidauana,Corumbá
-5001102,5003488,MS,MS,Aquidauana,Dois Irmãos do Buriti
-5001102,5005608,MS,MS,Aquidauana,Miranda
-5001243,5000609,MS,MS,Aral Moreira,Amambai
 5001243,5003157,MS,MS,Aral Moreira,Coronel Sapucaia
-5001243,5005251,MS,MS,Aral Moreira,Laguna Carapã
 5001243,5006606,MS,MS,Aral Moreira,Ponta Porã
 5002100,5000906,MS,MS,Bela Vista,Antônio João
 5002100,5002803,MS,MS,Bela Vista,Caracol
-5002100,5005004,MS,MS,Bela Vista,Jardim
 5002100,5006606,MS,MS,Bela Vista,Ponta Porã
-5002159,5002209,MS,MS,Bodoquena,Bonito
-5002159,5003207,MS,MS,Bodoquena,Corumbá
-5002159,5005608,MS,MS,Bodoquena,Miranda
-5002159,5006903,MS,MS,Bodoquena,Porto Murtinho
-5002209,5000708,MS,MS,Bonito,Anastácio
-5002209,5002159,MS,MS,Bonito,Bodoquena
-5002209,5004106,MS,MS,Bonito,Guia Lopes da Laguna
-5002209,5005004,MS,MS,Bonito,Jardim
-5002209,5005608,MS,MS,Bonito,Miranda
-5002209,5005806,MS,MS,Bonito,Nioaque
-5002209,5006903,MS,MS,Bonito,Porto Murtinho
-5002407,5000609,MS,MS,Caarapó,Amambai
-5002407,5003702,MS,MS,Caarapó,Dourados
-5002407,5003801,MS,MS,Caarapó,Fátima do Sul
-5002407,5005152,MS,MS,Caarapó,Juti
-5002407,5005251,MS,MS,Caarapó,Laguna Carapã
-5002407,5008404,MS,MS,Caarapó,Vicentina
 5002803,5002100,MS,MS,Caracol,Bela Vista
-5002803,5005004,MS,MS,Caracol,Jardim
 5002803,5006903,MS,MS,Caracol,Porto Murtinho
-5003157,5000609,MS,MS,Coronel Sapucaia,Amambai
 5003157,5001243,MS,MS,Coronel Sapucaia,Aral Moreira
 5003157,5006358,MS,MS,Coronel Sapucaia,Paranhos
-5003157,5007950,MS,MS,Coronel Sapucaia,Tacuru
-5003207,5001102,MS,MS,Corumbá,Aquidauana
-5003207,5002159,MS,MS,Corumbá,Bodoquena
-5003207,5005202,MS,MS,Corumbá,Ladário
-5003207,5005608,MS,MS,Corumbá,Miranda
 5003207,5006903,MS,MS,Corumbá,Porto Murtinho
-5003207,5101605,MS,MT,Corumbá,Barão de Melgaço
 5003207,5102504,MS,MT,Corumbá,Cáceres
-5003207,5106505,MS,MT,Corumbá,Poconé
-5003454,5003702,MS,MS,Deodápolis,Dourados
-5003454,5003801,MS,MS,Deodápolis,Fátima do Sul
-5003454,5004007,MS,MS,Deodápolis,Glória de Dourados
-5003454,5007208,MS,MS,Deodápolis,Rio Brilhante
-5003488,5000708,MS,MS,Dois Irmãos do Buriti,Anastácio
-5003488,5001102,MS,MS,Dois Irmãos do Buriti,Aquidauana
-5003488,5005400,MS,MS,Dois Irmãos do Buriti,Maracaju
-5003488,5007901,MS,MS,Dois Irmãos do Buriti,Sidrolândia
-5003504,5003702,MS,MS,Douradina,Dourados
-5003504,5004502,MS,MS,Douradina,Itaporã
-5003504,5007208,MS,MS,Douradina,Rio Brilhante
-5003702,5002407,MS,MS,Dourados,Caarapó
-5003702,5003454,MS,MS,Dourados,Deodápolis
-5003702,5003504,MS,MS,Dourados,Douradina
-5003702,5003801,MS,MS,Dourados,Fátima do Sul
-5003702,5004502,MS,MS,Dourados,Itaporã
-5003702,5005251,MS,MS,Dourados,Laguna Carapã
-5003702,5005400,MS,MS,Dourados,Maracaju
-5003702,5006606,MS,MS,Dourados,Ponta Porã
-5003702,5007208,MS,MS,Dourados,Rio Brilhante
-5003751,5004304,MS,MS,Eldorado,Iguatemi
-5003751,5004601,MS,MS,Eldorado,Itaquiraí
-5003751,5004809,MS,MS,Eldorado,Japorã
-5003751,5005681,MS,MS,Eldorado,Mundo Novo
-5003801,5002407,MS,MS,Fátima do Sul,Caarapó
-5003801,5003454,MS,MS,Fátima do Sul,Deodápolis
-5003801,5003702,MS,MS,Fátima do Sul,Dourados
-5003801,5004007,MS,MS,Fátima do Sul,Glória de Dourados
-5003801,5008404,MS,MS,Fátima do Sul,Vicentina
-5004007,5003454,MS,MS,Glória de Dourados,Deodápolis
-5004007,5003801,MS,MS,Glória de Dourados,Fátima do Sul
-5004007,5005103,MS,MS,Glória de Dourados,Jateí
-5004007,5006259,MS,MS,Glória de Dourados,Novo Horizonte do Sul
-5004007,5008404,MS,MS,Glória de Dourados,Vicentina
-5004106,5002209,MS,MS,Guia Lopes da Laguna,Bonito
-5004106,5005004,MS,MS,Guia Lopes da Laguna,Jardim
-5004106,5005400,MS,MS,Guia Lopes da Laguna,Maracaju
-5004106,5005806,MS,MS,Guia Lopes da Laguna,Nioaque
-5004106,5006606,MS,MS,Guia Lopes da Laguna,Ponta Porã
-5004304,5000609,MS,MS,Iguatemi,Amambai
-5004304,5003751,MS,MS,Iguatemi,Eldorado
-5004304,5004601,MS,MS,Iguatemi,Itaquiraí
-5004304,5004809,MS,MS,Iguatemi,Japorã
-5004304,5005152,MS,MS,Iguatemi,Juti
-5004304,5005707,MS,MS,Iguatemi,Naviraí
-5004304,5007950,MS,MS,Iguatemi,Tacuru
-5004502,5003504,MS,MS,Itaporã,Douradina
-5004502,5003702,MS,MS,Itaporã,Dourados
-5004502,5005400,MS,MS,Itaporã,Maracaju
-5004502,5007208,MS,MS,Itaporã,Rio Brilhante
-5004601,5003751,MS,MS,Itaquiraí,Eldorado
-5004601,5004304,MS,MS,Itaquiraí,Iguatemi
-5004601,5005707,MS,MS,Itaquiraí,Naviraí
-5004809,5003751,MS,MS,Japorã,Eldorado
-5004809,5004304,MS,MS,Japorã,Iguatemi
 5004809,5005681,MS,MS,Japorã,Mundo Novo
 5004809,5007703,MS,MS,Japorã,Sete Quedas
-5004809,5007950,MS,MS,Japorã,Tacuru
-5005004,5002100,MS,MS,Jardim,Bela Vista
-5005004,5002209,MS,MS,Jardim,Bonito
-5005004,5002803,MS,MS,Jardim,Caracol
-5005004,5004106,MS,MS,Jardim,Guia Lopes da Laguna
-5005004,5006606,MS,MS,Jardim,Ponta Porã
-5005004,5006903,MS,MS,Jardim,Porto Murtinho
-5005103,5004007,MS,MS,Jateí,Glória de Dourados
-5005103,5005152,MS,MS,Jateí,Juti
-5005103,5005707,MS,MS,Jateí,Naviraí
-5005103,5006259,MS,MS,Jateí,Novo Horizonte do Sul
-5005103,5007976,MS,MS,Jateí,Taquarussu
-5005103,5008404,MS,MS,Jateí,Vicentina
-5005152,5000609,MS,MS,Juti,Amambai
-5005152,5002407,MS,MS,Juti,Caarapó
-5005152,5004304,MS,MS,Juti,Iguatemi
-5005152,5005103,MS,MS,Juti,Jateí
-5005152,5005707,MS,MS,Juti,Naviraí
-5005152,5008404,MS,MS,Juti,Vicentina
-5005202,5003207,MS,MS,Ladário,Corumbá
-5005251,5000609,MS,MS,Laguna Carapã,Amambai
-5005251,5001243,MS,MS,Laguna Carapã,Aral Moreira
-5005251,5002407,MS,MS,Laguna Carapã,Caarapó
-5005251,5003702,MS,MS,Laguna Carapã,Dourados
-5005251,5006606,MS,MS,Laguna Carapã,Ponta Porã
-5005400,5000708,MS,MS,Maracaju,Anastácio
-5005400,5003488,MS,MS,Maracaju,Dois Irmãos do Buriti
-5005400,5003702,MS,MS,Maracaju,Dourados
-5005400,5004106,MS,MS,Maracaju,Guia Lopes da Laguna
-5005400,5004502,MS,MS,Maracaju,Itaporã
-5005400,5005806,MS,MS,Maracaju,Nioaque
-5005400,5006606,MS,MS,Maracaju,Ponta Porã
-5005400,5007208,MS,MS,Maracaju,Rio Brilhante
-5005400,5007901,MS,MS,Maracaju,Sidrolândia
-5005608,5000708,MS,MS,Miranda,Anastácio
-5005608,5001102,MS,MS,Miranda,Aquidauana
-5005608,5002159,MS,MS,Miranda,Bodoquena
-5005608,5002209,MS,MS,Miranda,Bonito
-5005608,5003207,MS,MS,Miranda,Corumbá
-5005681,5003751,MS,MS,Mundo Novo,Eldorado
 5005681,5004809,MS,MS,Mundo Novo,Japorã
-5005707,5004304,MS,MS,Naviraí,Iguatemi
-5005707,5004601,MS,MS,Naviraí,Itaquiraí
-5005707,5005103,MS,MS,Naviraí,Jateí
-5005707,5005152,MS,MS,Naviraí,Juti
-5005707,5007976,MS,MS,Naviraí,Taquarussu
-5005806,5000708,MS,MS,Nioaque,Anastácio
-5005806,5002209,MS,MS,Nioaque,Bonito
-5005806,5004106,MS,MS,Nioaque,Guia Lopes da Laguna
-5005806,5005400,MS,MS,Nioaque,Maracaju
-5006002,5007208,MS,MS,Nova Alvorada do Sul,Rio Brilhante
-5006002,5007901,MS,MS,Nova Alvorada do Sul,Sidrolândia
-5006259,5004007,MS,MS,Novo Horizonte do Sul,Glória de Dourados
-5006259,5005103,MS,MS,Novo Horizonte do Sul,Jateí
-5006259,5007976,MS,MS,Novo Horizonte do Sul,Taquarussu
+5005681,4108809,MS,PR,Mundo Novo,Guaíra
 5006358,5003157,MS,MS,Paranhos,Coronel Sapucaia
 5006358,5007703,MS,MS,Paranhos,Sete Quedas
-5006358,5007950,MS,MS,Paranhos,Tacuru
 5006606,5000906,MS,MS,Ponta Porã,Antônio João
 5006606,5001243,MS,MS,Ponta Porã,Aral Moreira
 5006606,5002100,MS,MS,Ponta Porã,Bela Vista
-5006606,5003702,MS,MS,Ponta Porã,Dourados
-5006606,5004106,MS,MS,Ponta Porã,Guia Lopes da Laguna
-5006606,5005004,MS,MS,Ponta Porã,Jardim
-5006606,5005251,MS,MS,Ponta Porã,Laguna Carapã
-5006606,5005400,MS,MS,Ponta Porã,Maracaju
-5006903,5002159,MS,MS,Porto Murtinho,Bodoquena
-5006903,5002209,MS,MS,Porto Murtinho,Bonito
 5006903,5002803,MS,MS,Porto Murtinho,Caracol
 5006903,5003207,MS,MS,Porto Murtinho,Corumbá
-5006903,5005004,MS,MS,Porto Murtinho,Jardim
-5007208,5003454,MS,MS,Rio Brilhante,Deodápolis
-5007208,5003504,MS,MS,Rio Brilhante,Douradina
-5007208,5003702,MS,MS,Rio Brilhante,Dourados
-5007208,5004502,MS,MS,Rio Brilhante,Itaporã
-5007208,5005400,MS,MS,Rio Brilhante,Maracaju
-5007208,5006002,MS,MS,Rio Brilhante,Nova Alvorada do Sul
-5007208,5007901,MS,MS,Rio Brilhante,Sidrolândia
 5007703,5004809,MS,MS,Sete Quedas,Japorã
 5007703,5006358,MS,MS,Sete Quedas,Paranhos
-5007703,5007950,MS,MS,Sete Quedas,Tacuru
-5007901,5003488,MS,MS,Sidrolândia,Dois Irmãos do Buriti
-5007901,5005400,MS,MS,Sidrolândia,Maracaju
-5007901,5006002,MS,MS,Sidrolândia,Nova Alvorada do Sul
-5007901,5007208,MS,MS,Sidrolândia,Rio Brilhante
-5007950,5000609,MS,MS,Tacuru,Amambai
-5007950,5003157,MS,MS,Tacuru,Coronel Sapucaia
-5007950,5004304,MS,MS,Tacuru,Iguatemi
-5007950,5004809,MS,MS,Tacuru,Japorã
-5007950,5006358,MS,MS,Tacuru,Paranhos
-5007950,5007703,MS,MS,Tacuru,Sete Quedas
-5007976,5005103,MS,MS,Taquarussu,Jateí
-5007976,5005707,MS,MS,Taquarussu,Naviraí
-5007976,5006259,MS,MS,Taquarussu,Novo Horizonte do Sul
-5008404,5002407,MS,MS,Vicentina,Caarapó
-5008404,5003801,MS,MS,Vicentina,Fátima do Sul
-5008404,5004007,MS,MS,Vicentina,Glória de Dourados
-5008404,5005103,MS,MS,Vicentina,Jateí
-5008404,5005152,MS,MS,Vicentina,Juti
-5101258,5101704,MT,MT,Araputanga,Barra do Bugres
-5101258,5104500,MT,MT,Araputanga,Indiavaí
-5101258,5105002,MT,MT,Araputanga,Jauru
-5101258,5107107,MT,MT,Araputanga,São José dos Quatro Marcos
-5101258,5107156,MT,MT,Araputanga,Reserva do Cabaçal
-5101258,5107206,MT,MT,Araputanga,Rio Branco
-5101605,5003207,MT,MS,Barão de Melgaço,Corumbá
-5101605,5106109,MT,MT,Barão de Melgaço,Nossa Senhora do Livramento
-5101605,5106505,MT,MT,Barão de Melgaço,Poconé
-5101704,5101258,MT,MT,Barra do Bugres,Araputanga
-5101704,5102504,MT,MT,Barra do Bugres,Cáceres
-5101704,5105002,MT,MT,Barra do Bugres,Jauru
-5101704,5105234,MT,MT,Barra do Bugres,Lambari D'Oeste
-5101704,5106851,MT,MT,Barra do Bugres,Porto Estrela
-5101704,5107156,MT,MT,Barra do Bugres,Reserva do Cabaçal
-5101704,5107750,MT,MT,Barra do Bugres,Salto do Céu
-5101704,5107958,MT,MT,Barra do Bugres,Tangará da Serra
-5101704,5108352,MT,MT,Barra do Bugres,Vale de São Domingos
 5102504,5003207,MT,MS,Cáceres,Corumbá
-5102504,5101704,MT,MT,Cáceres,Barra do Bugres
-5102504,5103437,MT,MT,Cáceres,Curvelândia
-5102504,5103957,MT,MT,Cáceres,Glória D'Oeste
-5102504,5105234,MT,MT,Cáceres,Lambari D'Oeste
-5102504,5105622,MT,MT,Cáceres,Mirassol d'Oeste
-5102504,5106109,MT,MT,Cáceres,Nossa Senhora do Livramento
-5102504,5106505,MT,MT,Cáceres,Poconé
 5102504,5106828,MT,MT,Cáceres,Porto Esperidião
-5102504,5106851,MT,MT,Cáceres,Porto Estrela
-5102686,5103304,MT,MT,Campos de Júlio,Comodoro
-5102686,5103361,MT,MT,Campos de Júlio,Conquista D'Oeste
-5102686,5106182,MT,MT,Campos de Júlio,Nova Lacerda
-5102686,5107958,MT,MT,Campos de Júlio,Tangará da Serra
 5103304,1100031,MT,RO,Comodoro,Cabixi
-5103304,5102686,MT,MT,Comodoro,Campos de Júlio
 5103304,5105507,MT,MT,Comodoro,Vila Bela da Santíssima Trindade
-5103304,5106182,MT,MT,Comodoro,Nova Lacerda
-5103304,5107875,MT,MT,Comodoro,Sapezal
-5103361,5102686,MT,MT,Conquista D'Oeste,Campos de Júlio
-5103361,5105507,MT,MT,Conquista D'Oeste,Vila Bela da Santíssima Trindade
-5103361,5106182,MT,MT,Conquista D'Oeste,Nova Lacerda
-5103361,5106752,MT,MT,Conquista D'Oeste,Pontes e Lacerda
-5103361,5107958,MT,MT,Conquista D'Oeste,Tangará da Serra
-5103437,5102504,MT,MT,Curvelândia,Cáceres
-5103437,5105234,MT,MT,Curvelândia,Lambari D'Oeste
-5103437,5105622,MT,MT,Curvelândia,Mirassol d'Oeste
-5103809,5103957,MT,MT,Figueirópolis D'Oeste,Glória D'Oeste
-5103809,5104500,MT,MT,Figueirópolis D'Oeste,Indiavaí
-5103809,5105002,MT,MT,Figueirópolis D'Oeste,Jauru
-5103809,5106828,MT,MT,Figueirópolis D'Oeste,Porto Esperidião
-5103809,5107107,MT,MT,Figueirópolis D'Oeste,São José dos Quatro Marcos
-5103957,5102504,MT,MT,Glória D'Oeste,Cáceres
-5103957,5103809,MT,MT,Glória D'Oeste,Figueirópolis D'Oeste
-5103957,5105622,MT,MT,Glória D'Oeste,Mirassol d'Oeste
-5103957,5106828,MT,MT,Glória D'Oeste,Porto Esperidião
-5103957,5107107,MT,MT,Glória D'Oeste,São José dos Quatro Marcos
-5104500,5101258,MT,MT,Indiavaí,Araputanga
-5104500,5103809,MT,MT,Indiavaí,Figueirópolis D'Oeste
-5104500,5105002,MT,MT,Indiavaí,Jauru
-5104500,5107107,MT,MT,Indiavaí,São José dos Quatro Marcos
-5105002,5101258,MT,MT,Jauru,Araputanga
-5105002,5101704,MT,MT,Jauru,Barra do Bugres
-5105002,5103809,MT,MT,Jauru,Figueirópolis D'Oeste
-5105002,5104500,MT,MT,Jauru,Indiavaí
-5105002,5106752,MT,MT,Jauru,Pontes e Lacerda
-5105002,5106828,MT,MT,Jauru,Porto Esperidião
-5105002,5107156,MT,MT,Jauru,Reserva do Cabaçal
-5105002,5108352,MT,MT,Jauru,Vale de São Domingos
-5105234,5101704,MT,MT,Lambari D'Oeste,Barra do Bugres
-5105234,5102504,MT,MT,Lambari D'Oeste,Cáceres
-5105234,5103437,MT,MT,Lambari D'Oeste,Curvelândia
-5105234,5105622,MT,MT,Lambari D'Oeste,Mirassol d'Oeste
-5105234,5107107,MT,MT,Lambari D'Oeste,São José dos Quatro Marcos
-5105234,5107206,MT,MT,Lambari D'Oeste,Rio Branco
-5105234,5107750,MT,MT,Lambari D'Oeste,Salto do Céu
-5105507,5103304,MT,MT,Vila Bela da Santíssima Trindade,Comodoro
-5105507,5103361,MT,MT,Vila Bela da Santíssima Trindade,Conquista D'Oeste
-5105507,5106182,MT,MT,Vila Bela da Santíssima Trindade,Nova Lacerda
-5105507,5106752,MT,MT,Vila Bela da Santíssima Trindade,Pontes e Lacerda
-5105507,5106828,MT,MT,Vila Bela da Santíssima Trindade,Porto Esperidião
-5105622,5102504,MT,MT,Mirassol d'Oeste,Cáceres
-5105622,5103437,MT,MT,Mirassol d'Oeste,Curvelândia
-5105622,5103957,MT,MT,Mirassol d'Oeste,Glória D'Oeste
-5105622,5105234,MT,MT,Mirassol d'Oeste,Lambari D'Oeste
-5105622,5107107,MT,MT,Mirassol d'Oeste,São José dos Quatro Marcos
-5106109,5101605,MT,MT,Nossa Senhora do Livramento,Barão de Melgaço
-5106109,5102504,MT,MT,Nossa Senhora do Livramento,Cáceres
-5106109,5106505,MT,MT,Nossa Senhora do Livramento,Poconé
-5106109,5106851,MT,MT,Nossa Senhora do Livramento,Porto Estrela
-5106182,5102686,MT,MT,Nova Lacerda,Campos de Júlio
-5106182,5103304,MT,MT,Nova Lacerda,Comodoro
-5106182,5103361,MT,MT,Nova Lacerda,Conquista D'Oeste
-5106182,5105507,MT,MT,Nova Lacerda,Vila Bela da Santíssima Trindade
-5106505,5003207,MT,MS,Poconé,Corumbá
-5106505,5101605,MT,MT,Poconé,Barão de Melgaço
-5106505,5102504,MT,MT,Poconé,Cáceres
-5106505,5106109,MT,MT,Poconé,Nossa Senhora do Livramento
-5106752,5103361,MT,MT,Pontes e Lacerda,Conquista D'Oeste
-5106752,5105002,MT,MT,Pontes e Lacerda,Jauru
-5106752,5105507,MT,MT,Pontes e Lacerda,Vila Bela da Santíssima Trindade
-5106752,5106828,MT,MT,Pontes e Lacerda,Porto Esperidião
-5106752,5107958,MT,MT,Pontes e Lacerda,Tangará da Serra
-5106752,5108352,MT,MT,Pontes e Lacerda,Vale de São Domingos
 5106828,5102504,MT,MT,Porto Esperidião,Cáceres
-5106828,5103809,MT,MT,Porto Esperidião,Figueirópolis D'Oeste
-5106828,5103957,MT,MT,Porto Esperidião,Glória D'Oeste
-5106828,5105002,MT,MT,Porto Esperidião,Jauru
 5106828,5105507,MT,MT,Porto Esperidião,Vila Bela da Santíssima Trindade
-5106828,5106752,MT,MT,Porto Esperidião,Pontes e Lacerda
-5106828,5107107,MT,MT,Porto Esperidião,São José dos Quatro Marcos
-5106851,5101704,MT,MT,Porto Estrela,Barra do Bugres
-5106851,5102504,MT,MT,Porto Estrela,Cáceres
-5106851,5106109,MT,MT,Porto Estrela,Nossa Senhora do Livramento
-5107107,5101258,MT,MT,São José dos Quatro Marcos,Araputanga
-5107107,5103809,MT,MT,São José dos Quatro Marcos,Figueirópolis D'Oeste
-5107107,5103957,MT,MT,São José dos Quatro Marcos,Glória D'Oeste
-5107107,5104500,MT,MT,São José dos Quatro Marcos,Indiavaí
-5107107,5105234,MT,MT,São José dos Quatro Marcos,Lambari D'Oeste
-5107107,5105622,MT,MT,São José dos Quatro Marcos,Mirassol d'Oeste
-5107107,5106828,MT,MT,São José dos Quatro Marcos,Porto Esperidião
-5107107,5107206,MT,MT,São José dos Quatro Marcos,Rio Branco
-5107156,5101258,MT,MT,Reserva do Cabaçal,Araputanga
-5107156,5101704,MT,MT,Reserva do Cabaçal,Barra do Bugres
-5107156,5105002,MT,MT,Reserva do Cabaçal,Jauru
-5107156,5107206,MT,MT,Reserva do Cabaçal,Rio Branco
-5107156,5107750,MT,MT,Reserva do Cabaçal,Salto do Céu
-5107156,5107958,MT,MT,Reserva do Cabaçal,Tangará da Serra
-5107206,5101258,MT,MT,Rio Branco,Araputanga
-5107206,5105234,MT,MT,Rio Branco,Lambari D'Oeste
-5107206,5107107,MT,MT,Rio Branco,São José dos Quatro Marcos
-5107206,5107156,MT,MT,Rio Branco,Reserva do Cabaçal
-5107206,5107750,MT,MT,Rio Branco,Salto do Céu
-5107750,5101704,MT,MT,Salto do Céu,Barra do Bugres
-5107750,5105234,MT,MT,Salto do Céu,Lambari D'Oeste
-5107750,5107156,MT,MT,Salto do Céu,Reserva do Cabaçal
-5107750,5107206,MT,MT,Salto do Céu,Rio Branco
-5107750,5107958,MT,MT,Salto do Céu,Tangará da Serra
-5107875,5103304,MT,MT,Sapezal,Comodoro
-5107875,5107958,MT,MT,Sapezal,Tangará da Serra
-5107958,5101704,MT,MT,Tangará da Serra,Barra do Bugres
-5107958,5102686,MT,MT,Tangará da Serra,Campos de Júlio
-5107958,5103361,MT,MT,Tangará da Serra,Conquista D'Oeste
-5107958,5106752,MT,MT,Tangará da Serra,Pontes e Lacerda
-5107958,5107156,MT,MT,Tangará da Serra,Reserva do Cabaçal
-5107958,5107750,MT,MT,Tangará da Serra,Salto do Céu
-5107958,5107875,MT,MT,Tangará da Serra,Sapezal
-5107958,5108352,MT,MT,Tangará da Serra,Vale de São Domingos
-5108352,5101704,MT,MT,Vale de São Domingos,Barra do Bugres
-5108352,5105002,MT,MT,Vale de São Domingos,Jauru
-5108352,5106752,MT,MT,Vale de São Domingos,Pontes e Lacerda
-5108352,5107958,MT,MT,Vale de São Domingos,Tangará da Serra
+5105507,5103304,MT,MT,Vila Bela da Santíssima Trindade,Comodoro
+5105507,5106828,MT,MT,Vila Bela da Santíssima Trindade,Porto Esperidião
