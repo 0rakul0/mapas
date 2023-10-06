@@ -118,107 +118,42 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 1600279,1600501,AP,AP,Laranjal do Jari,Oiapoque
 1600501,1600204,AP,AP,Oiapoque,Calçoene
 1600501,1600279,AP,AP,Oiapoque,Laranjal do Jari
-4101002,4116950,PR,PR,Ampére,Nova Esperança do Sudoeste
-4101002,4119004,PR,PR,Ampére,Pérola d'Oeste
-4101002,4119806,PR,PR,Ampére,Planalto
-4101002,4120358,PR,PR,Ampére,Pranchita
 4102604,4103156,PR,PR,Barracão,Bom Jesus do Sul
 4102604,4205001,PR,SC,Barracão,Dionísio Cerqueira
 4103156,4102604,PR,PR,Bom Jesus do Sul,Barracão
 4103156,4124400,PR,PR,Bom Jesus do Sul,Santo Antônio do Sudoeste
 4104501,4119806,PR,PR,Capanema,Planalto
 4104501,4126355,PR,PR,Capanema,Serranópolis do Iguaçu
-4107256,4111555,PR,PR,Douradina,Ivaté
-4107405,4116950,PR,PR,Enéas Marques,Nova Esperança do Sudoeste
 4107538,4114609,PR,PR,Entre Rios do Oeste,Marechal Cândido Rondon
 4107538,4118451,PR,PR,Entre Rios do Oeste,Pato Bragado
-4107850,4102604,PR,PR,Flor da Serra do Sul,Barracão
-4107850,4103156,PR,PR,Flor da Serra do Sul,Bom Jesus do Sul
-4107850,4115408,PR,PR,Flor da Serra do Sul,Marmeleiro
-4108205,4102000,PR,PR,Formosa do Oeste,Assis Chateaubriand
-4108205,4108601,PR,PR,Formosa do Oeste,Goioerê
-4108205,4110656,PR,PR,Formosa do Oeste,Iracema do Oeste
-4108205,4112751,PR,PR,Formosa do Oeste,Jesuítas
-4108205,4120655,PR,PR,Formosa do Oeste,Quarto Centenário
+4107538,4123501,PR,PR,Entre Rios do Oeste,Santa Helena
 4108304,4110953,PR,PR,Foz do Iguaçu,Itaipulândia
-4108320,4117909,PR,PR,Francisco Alves,Palotina
-4108601,4108205,PR,PR,Goioerê,Formosa do Oeste
-4108601,4112207,PR,PR,Goioerê,Janiópolis
-4108601,4120655,PR,PR,Goioerê,Quarto Centenário
-4108601,4121356,PR,PR,Goioerê,Rancho Alegre D'Oeste
+4108304,4125704,PR,PR,Foz do Iguaçu,São Miguel do Iguaçu
 4108809,4115853,PR,PR,Guaíra,Mercedes
-4109906,4111555,PR,PR,Icaraíma,Ivaté
-4109906,4121000,PR,PR,Icaraíma,Querência do Norte
-4110052,4101051,PR,PR,Iguatu,Anahy
-4110656,4108205,PR,PR,Iracema do Oeste,Formosa do Oeste
-4110656,4112751,PR,PR,Iracema do Oeste,Jesuítas
+4108809,5005681,PR,MS,Guaíra,Mundo Novo
 4110953,4108304,PR,PR,Itaipulândia,Foz do Iguaçu
-4110953,4115804,PR,PR,Itaipulândia,Medianeira
-4111555,4107256,PR,PR,Ivaté,Douradina
-4111555,4109906,PR,PR,Ivaté,Icaraíma
-4111555,4121000,PR,PR,Ivaté,Querência do Norte
-4112207,4103008,PR,PR,Janiópolis,Boa Esperança
-4112207,4108601,PR,PR,Janiópolis,Goioerê
-4112207,4121356,PR,PR,Janiópolis,Rancho Alegre D'Oeste
-4112751,4102000,PR,PR,Jesuítas,Assis Chateaubriand
-4112751,4108205,PR,PR,Jesuítas,Formosa do Oeste
-4112751,4110656,PR,PR,Jesuítas,Iracema do Oeste
-4113452,4103057,PR,PR,Lindoeste,Boa Vista da Aparecida
+4110953,4108304,PR,PR,Itaipulândia,Santa Helena
+4110953,4125704,PR,PR,Itaipulândia,São Miguel do Iguaçu
+4108304,4110953,PR,PR,Santa Helena,Itaipulândia
 4114609,4107538,PR,PR,Marechal Cândido Rondon,Entre Rios do Oeste
 4114609,4115853,PR,PR,Marechal Cândido Rondon,Mercedes
-4114609,4117222,PR,PR,Marechal Cândido Rondon,Nova Santa Rosa
-4114609,4117453,PR,PR,Marechal Cândido Rondon,Ouro Verde do Oeste
 4114609,4118451,PR,PR,Marechal Cândido Rondon,Pato Bragado
-4114609,4120853,PR,PR,Marechal Cândido Rondon,Quatro Pontes
-4115358,4102000,PR,PR,Maripá,Assis Chateaubriand
-4115358,4117222,PR,PR,Maripá,Nova Santa Rosa
-4115358,4117909,PR,PR,Maripá,Palotina
-4115408,4107850,PR,PR,Marmeleiro,Flor da Serra do Sul
-4115408,4121604,PR,PR,Marmeleiro,Renascença
-4115804,4110953,PR,PR,Medianeira,Itaipulândia
 4115853,4108809,PR,PR,Mercedes,Guaíra
 4115853,4114609,PR,PR,Mercedes,Marechal Cândido Rondon
-4115853,4117222,PR,PR,Mercedes,Nova Santa Rosa
-4117222,4114609,PR,PR,Nova Santa Rosa,Marechal Cândido Rondon
-4117222,4115358,PR,PR,Nova Santa Rosa,Maripá
-4117222,4115853,PR,PR,Nova Santa Rosa,Mercedes
-4117222,4117909,PR,PR,Nova Santa Rosa,Palotina
-4117222,4120853,PR,PR,Nova Santa Rosa,Quatro Pontes
-4117255,4103057,PR,PR,Nova Prata do Iguaçu,Boa Vista da Aparecida
-4117453,4114609,PR,PR,Ouro Verde do Oeste,Marechal Cândido Rondon
-4117909,4102000,PR,PR,Palotina,Assis Chateaubriand
-4117909,4108320,PR,PR,Palotina,Francisco Alves
-4117909,4115358,PR,PR,Palotina,Maripá
-4117909,4117222,PR,PR,Palotina,Nova Santa Rosa
 4118451,4107538,PR,PR,Pato Bragado,Entre Rios do Oeste
 4118451,4114609,PR,PR,Pato Bragado,Marechal Cândido Rondon
-4119004,4101002,PR,PR,Pérola d'Oeste,Ampére
-4119004,4102752,PR,PR,Pérola d'Oeste,Bela Vista da Caroba
 4119004,4119806,PR,PR,Pérola d'Oeste,Planalto
 4119004,4120358,PR,PR,Pérola d'Oeste,Pranchita
-4119806,4101002,PR,PR,Planalto,Ampére
 4119806,4104501,PR,PR,Planalto,Capanema
 4119806,4119004,PR,PR,Planalto,Pérola d'Oeste
-4120358,4101002,PR,PR,Pranchita,Ampére
-4120358,4102752,PR,PR,Pranchita,Bela Vista da Caroba
 4120358,4119004,PR,PR,Pranchita,Pérola d'Oeste
-4120655,4108205,PR,PR,Quarto Centenário,Formosa do Oeste
-4120655,4108601,PR,PR,Quarto Centenário,Goioerê
-4120655,4121356,PR,PR,Quarto Centenário,Rancho Alegre D'Oeste
-4120853,4114609,PR,PR,Quatro Pontes,Marechal Cândido Rondon
-4120853,4117222,PR,PR,Quatro Pontes,Nova Santa Rosa
-4121000,4109906,PR,PR,Querência do Norte,Icaraíma
-4121000,4111555,PR,PR,Querência do Norte,Ivaté
 4121604,4103222,PR,PR,Renascença,Bom Sucesso do Sul
-4121604,4115408,PR,PR,Renascença,Marmeleiro
 4122156,4124806,PR,PR,Rio Bonito do Iguaçu,São João
 4122156,4126272,PR,PR,Rio Bonito do Iguaçu,Saudade do Iguaçu
 4122156,4126652,PR,PR,Rio Bonito do Iguaçu,Sulina
 4122602,4126801,PR,PR,Rondon,Tapejara
-4122800,4124400,PR,PR,Salgado Filho,Santo Antônio do Sudoeste
 4123006,4123808,PR,PR,Salto do Lontra,Santa Izabel do Oeste
 4123303,4123709,PR,PR,Santa Cruz de Monte Castelo,Santa Isabel do Ivaí
-4123501,4125456,PR,PR,Santa Helena,São José das Palmeiras
 4123709,4123303,PR,PR,Santa Isabel do Ivaí,Santa Cruz de Monte Castelo
 4123709,4123956,PR,PR,Santa Isabel do Ivaí,Santa Mônica
 4123709,4126900,PR,PR,Santa Isabel do Ivaí,Tapira
@@ -226,9 +161,7 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4123956,4123709,PR,PR,Santa Mônica,Santa Isabel do Ivaí
 4123956,4126900,PR,PR,Santa Mônica,Tapira
 4124020,4125753,PR,PR,Santa Tereza do Oeste,São Pedro do Iguaçu
-4124020,4127700,PR,PR,Santa Tereza do Oeste,Toledo
 4124053,4125704,PR,PR,Santa Terezinha de Itaipu,São Miguel do Iguaçu
-4124400,4122800,PR,PR,Santo Antônio do Sudoeste,Salgado Filho
 4124806,4122156,PR,PR,São João,Rio Bonito do Iguaçu
 4124806,4125209,PR,PR,São João,São Jorge d'Oeste
 4124806,4126652,PR,PR,São João,Sulina
@@ -236,13 +169,10 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4125209,4124806,PR,PR,São Jorge d'Oeste,São João
 4125209,4128609,PR,PR,São Jorge d'Oeste,Verê
 4125357,4128625,PR,PR,São Jorge do Patrocínio,Alto Paraíso
-4125456,4123501,PR,PR,São José das Palmeiras,Santa Helena
-4125456,4125753,PR,PR,São José das Palmeiras,São Pedro do Iguaçu
 4125704,4124053,PR,PR,São Miguel do Iguaçu,Santa Terezinha de Itaipu
 4125704,4126355,PR,PR,São Miguel do Iguaçu,Serranópolis do Iguaçu
+4125704,4110953,PR,PR,São Miguel do Iguaçu,Foz do Iguaçu
 4125753,4124020,PR,PR,São Pedro do Iguaçu,Santa Tereza do Oeste
-4125753,4125456,PR,PR,São Pedro do Iguaçu,São José das Palmeiras
-4125753,4127700,PR,PR,São Pedro do Iguaçu,Toledo
 4125753,4128559,PR,PR,São Pedro do Iguaçu,Vera Cruz do Oeste
 4126272,4122156,PR,PR,Saudade do Iguaçu,Rio Bonito do Iguaçu
 4126272,4126652,PR,PR,Saudade do Iguaçu,Sulina
@@ -254,8 +184,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4126801,4127908,PR,PR,Tapejara,Tuneiras do Oeste
 4126900,4123709,PR,PR,Tapira,Santa Isabel do Ivaí
 4126900,4123956,PR,PR,Tapira,Santa Mônica
-4127700,4124020,PR,PR,Toledo,Santa Tereza do Oeste
-4127700,4125753,PR,PR,Toledo,São Pedro do Iguaçu
 4127908,4126801,PR,PR,Tuneiras do Oeste,Tapejara
 4128104,4128625,PR,PR,Umuarama,Alto Paraíso
 4128104,4128807,PR,PR,Umuarama,Xambrê
@@ -281,7 +209,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4200804,4202099,SC,SC,Anchieta,Barra Bonita
 4200804,4203501,SC,SC,Anchieta,Campo Erê
 4200804,4206405,SC,SC,Anchieta,Guaraciaba
-4200804,4212007,SC,SC,Anchieta,Palma Sola
 4200804,4215208,SC,SC,Anchieta,Romelândia
 4201273,4204301,SC,SC,Arabutã,Concórdia
 4201273,4207700,SC,SC,Arabutã,Ipumirim
@@ -310,7 +237,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4203105,4212106,SC,SC,Caibi,Palmitos
 4203105,4215075,SC,SC,Caibi,Riqueza
 4203501,4200804,SC,SC,Campo Erê,Anchieta
-4203501,4212007,SC,SC,Campo Erê,Palma Sola
 4203501,4215208,SC,SC,Campo Erê,Romelândia
 4203501,4215356,SC,SC,Campo Erê,Saltinho
 4203501,4215687,SC,SC,Campo Erê,Santa Terezinha do Progresso
@@ -356,7 +282,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4204905,4215075,SC,SC,Descanso,Riqueza
 4204905,4215554,SC,SC,Descanso,Santa Helena
 4205001,4206603,SC,SC,Dionísio Cerqueira,Guarujá do Sul
-4205001,4212007,SC,SC,Dionísio Cerqueira,Palma Sola
 4205001,4214151,SC,SC,Dionísio Cerqueira,Princesa
 4205175,4207684,SC,SC,Entre Rios,Ipuaçu
 4205175,4209458,SC,SC,Entre Rios,Lajeado Grande
@@ -382,7 +307,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4206405,4202099,SC,SC,Guaraciaba,Barra Bonita
 4206405,4212239,SC,SC,Guaraciaba,Paraíso
 4206603,4205001,SC,SC,Guarujá do Sul,Dionísio Cerqueira
-4206603,4212007,SC,SC,Guarujá do Sul,Palma Sola
 4206603,4214151,SC,SC,Guarujá do Sul,Princesa
 4206652,4204103,SC,SC,Guatambú,Caxambu do Sul
 4206652,4204202,SC,SC,Guatambú,Chapecó
@@ -459,10 +383,6 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4211850,4205308,SC,SC,Ouro Verde,Faxinal dos Guedes
 4211876,4204202,SC,SC,Paial,Chapecó
 4211876,4208005,SC,SC,Paial,Itá
-4212007,4200804,SC,SC,Palma Sola,Anchieta
-4212007,4203501,SC,SC,Palma Sola,Campo Erê
-4212007,4205001,SC,SC,Palma Sola,Dionísio Cerqueira
-4212007,4206603,SC,SC,Palma Sola,Guarujá do Sul
 4212106,4203105,SC,SC,Palmitos,Caibi
 4212106,4204707,SC,SC,Palmitos,Cunha Porã
 4212106,4204756,SC,SC,Palmitos,Cunhataí
