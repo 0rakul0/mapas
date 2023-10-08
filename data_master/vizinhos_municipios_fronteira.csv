@@ -175,294 +175,59 @@ ibge_mun1,ibge_mun2,uf_mun1,uf_mun2,municipio_1,municipio_2
 4216701,4206405,SC,SC,São José do Cedro,Guaraciaba
 4218756,4215554,SC,SC,Tunápolis,Santa Helena
 4218756,4208401,SC,SC,Tunápolis,Itapiranga
-4300001,4301305,RS,RS,Lagoa Mirim,Arroio Grande
 4300034,4301602,RS,RS,Aceguá,Bagé
 4300034,4312175,RS,RS,Aceguá,Pedras Altas
-4301305,4300001,RS,RS,Arroio Grande,Lagoa Mirim
-4301305,4307104,RS,RS,Arroio Grande,Herval
-4301305,4311007,RS,RS,Arroio Grande,Jaguarão
-4301305,4315602,RS,RS,Arroio Grande,Rio Grande
+4300307,4315057,RS,RS,Alecrim,Porto Mauá
+4300307,4315073,RS,RS,Alecrim,Porto Vera Cruz
 4301602,4300034,RS,RS,Bagé,Aceguá
 4301602,4306601,RS,RS,Bagé,Dom Pedrito
-4306007,4306734,RS,RS,Crissiumal,Doutor Maurício Cardoso
+4301875,4322400,RS,RS,Barra do Quaraí,Uruguaiana
+4305439,4317301,RS,RS,Chuí,Santa Vitória do Palmar
 4306007,4321477,RS,RS,Crissiumal,Tiradentes do Sul
-4306320,4307450,RS,RS,Derrubadas,Esperança do Sul
 4306320,4208401,RS,SC,Derrubadas,Itapiranga
+4306320,4307405,RS,RS,Derrubadas,Esperança do Sul
 4306601,4301602,RS,RS,Dom Pedrito,Bagé
 4306601,4317103,RS,RS,Dom Pedrito,Sant'Ana do Livramento
-4306734,4306007,RS,RS,Doutor Maurício Cardoso,Crissiumal
+4306734,4306734,RS,RS,Doutor Maurício Cardoso,Crissiumal
 4306734,4313425,RS,RS,Doutor Maurício Cardoso,Novo Machado
-4307104,4301305,RS,RS,Herval,Arroio Grande
+4307450,4306320,RS,RS,Esperança do Sul,Derrubadas
+4307450,4321477,RS,RS,Esperança do Sul,Tiradentes do Sul
+4308656,4318002,RS,RS,Garruchos,São Borja
+4308656,4319208,RS,RS,Garruchos,São Nicolau
 4307104,4314175,RS,RS,Herval,Pedras Altas
 4307104,4311007,RS,RS,Herval,Jaguarão
-4307450,4306320,RS,RS,Esperança do Sul,Derrubadas
-4310207,4313334,RS,RS,Ijuí,Nova Ramada
-4310405,4310413,RS,RS,Independência,Inhacorá
-4310413,4310405,RS,RS,Inhacorá,Independência
-4310413,4319737,RS,RS,Inhacorá,São Valério do Sul
-4310504,4314704,RS,RS,Iraí,Planalto
-4310553,4317400,RS,RS,Itacurubi,Santiago
-4310553,4317707,RS,RS,Itacurubi,Santo Antônio das Missões
-4310553,4318002,RS,RS,Itacurubi,São Borja
-4310603,4311718,RS,RS,Itaqui,Maçambará
-4310603,4311759,RS,RS,Itaqui,Manoel Viana
 4310603,4318002,RS,RS,Itaqui,São Borja
-4310702,4319703,RS,RS,Itatiba do Sul,São Valentim
-4310850,4311429,RS,RS,Jaboticaba,Lajeado do Bugre
-4310850,4313441,RS,RS,Jaboticaba,Novo Tiradentes
-4310850,4314456,RS,RS,Jaboticaba,Pinhal
-4310850,4320206,RS,RS,Jaboticaba,Seberi
-4310900,4314134,RS,RS,Jacutinga,Paulo Bento
-4310900,4314787,RS,RS,Jacutinga,Ponte Preta
-4310900,4315313,RS,RS,Jacutinga,Quatro Irmãos
-4310900,4316105,RS,RS,Jacutinga,Ronda Alta
-4311106,4313037,RS,RS,Jaguari,Nova Esperança do Sul
-4311106,4317400,RS,RS,Jaguari,Santiago
-4311007,4301305,RS,RS,Jaguarão,Arroio Grande
+4310603,4322400,RS,RS,Itaqui,Uruguaina
 4311007,4307104,RS,RS,Jaguarão,Herval
-4311155,4319158,RS,RS,Jóia,São Miguel das Missões
-4311429,4310850,RS,RS,Lajeado do Bugre,Jaboticaba
-4311429,4316428,RS,RS,Lajeado do Bugre,Sagrada Família
-4311429,4319364,RS,RS,Lajeado do Bugre,São Pedro das Missões
-4311502,4316972,RS,RS,Lavras do Sul,Santa Margarida do Sul
-4311502,4318309,RS,RS,Lavras do Sul,São Gabriel
-4311502,4319604,RS,RS,Lavras do Sul,São Sepé
-4311601,4312708,RS,RS,Liberato Salzano,Nonoai
-4311601,4313441,RS,RS,Liberato Salzano,Novo Tiradentes
-4311601,4315909,RS,RS,Liberato Salzano,Rodeio Bonito
-4311718,4310603,RS,RS,Maçambará,Itaqui
-4311718,4311759,RS,RS,Maçambará,Manoel Viana
-4311718,4318002,RS,RS,Maçambará,São Borja
-4311759,4310603,RS,RS,Manoel Viana,Itaqui
-4311759,4311718,RS,RS,Manoel Viana,Maçambará
-4312179,4315958,RS,RS,Mato Queimado,Rolador
-4312302,4315404,RS,RS,Miraguaí,Redentora
-4312450,4314407,RS,RS,Morro Redondo,Pelotas
-4312708,4311601,RS,RS,Nonoai,Liberato Salzano
-4312708,4314704,RS,RS,Nonoai,Planalto
-4312708,4315552,RS,RS,Nonoai,Rio dos Índios
-4312708,4315909,RS,RS,Nonoai,Rodeio Bonito
-4312955,4320107,RS,RS,Nova Boa Vista,Sarandi
-4313037,4311106,RS,RS,Nova Esperança do Sul,Jaguari
-4313037,4317400,RS,RS,Nova Esperança do Sul,Santiago
-4313334,4310207,RS,RS,Nova Ramada,Ijuí
-4313334,4313706,RS,RS,Nova Ramada,Palmeira das Missões
-4313334,4317806,RS,RS,Nova Ramada,Santo Augusto
 4313425,4315057,RS,RS,Novo Machado,Porto Mauá
-4313441,4310850,RS,RS,Novo Tiradentes,Jaboticaba
-4313441,4311601,RS,RS,Novo Tiradentes,Liberato Salzano
-4313441,4314456,RS,RS,Novo Tiradentes,Pinhal
-4313441,4315909,RS,RS,Novo Tiradentes,Rodeio Bonito
-4313466,4316204,RS,RS,Novo Xingu,Rondinha
-4313466,4316428,RS,RS,Novo Xingu,Sagrada Família
-4313466,4318457,RS,RS,Novo Xingu,São José das Missões
-4313466,4320107,RS,RS,Novo Xingu,Sarandi
-4313490,4313706,RS,RS,Novo Barreiro,Palmeira das Missões
-4313490,4318457,RS,RS,Novo Barreiro,São José das Missões
-4313490,4320107,RS,RS,Novo Barreiro,Sarandi
-4313706,4313334,RS,RS,Palmeira das Missões,Nova Ramada
-4313706,4313490,RS,RS,Palmeira das Missões,Novo Barreiro
-4313706,4316709,RS,RS,Palmeira das Missões,Santa Bárbara do Sul
-4313706,4317806,RS,RS,Palmeira das Missões,Santo Augusto
-4313706,4318457,RS,RS,Palmeira das Missões,São José das Missões
-4313706,4319364,RS,RS,Palmeira das Missões,São Pedro das Missões
-4313805,4314498,RS,RS,Palmitinho,Pinheirinho do Vale
-4313805,4321329,RS,RS,Palmitinho,Taquaruçu do Sul
-4313904,4314308,RS,RS,Panambi,Pejuçara
-4313904,4316709,RS,RS,Panambi,Santa Bárbara do Sul
-4314134,4310900,RS,RS,Paulo Bento,Jacutinga
-4314134,4314787,RS,RS,Paulo Bento,Ponte Preta
-4314134,4315313,RS,RS,Paulo Bento,Quatro Irmãos
-4314175,4314506,RS,RS,Pedras Altas,Pinheiro Machado
+4313425,4306734,RS,RS,Novo Machado,Doutor Maurício Cardoso
 4314175,4307104,RS,RS,Pedras Altas,Herval
-4314308,4313904,RS,RS,Pejuçara,Panambi
-4314308,4316709,RS,RS,Pejuçara,Santa Bárbara do Sul
-4314407,4312450,RS,RS,Pelotas,Morro Redondo
-4314407,4315602,RS,RS,Pelotas,Rio Grande
-4314407,4318804,RS,RS,Pelotas,São Lourenço do Sul
-4314456,4310850,RS,RS,Pinhal,Jaboticaba
-4314456,4313441,RS,RS,Pinhal,Novo Tiradentes
-4314456,4315909,RS,RS,Pinhal,Rodeio Bonito
-4314456,4320206,RS,RS,Pinhal,Seberi
-4314498,4313805,RS,RS,Pinheirinho do Vale,Palmitinho
-4314506,4314175,RS,RS,Pinheiro Machado,Pedras Altas
-4314506,4314605,RS,RS,Pinheiro Machado,Piratini
-4314506,4317004,RS,RS,Pinheiro Machado,Santana da Boa Vista
+4314175,4300034,RS,RS,Pedras Altas,Aceguá
 4314555,4316303,RS,RS,Pirapó,Roque Gonzales
 4314555,4319208,RS,RS,Pirapó,São Nicolau
-4314605,4314506,RS,RS,Piratini,Pinheiro Machado
-4314605,4317004,RS,RS,Piratini,Santana da Boa Vista
-4314704,4310504,RS,RS,Planalto,Iraí
-4314704,4312708,RS,RS,Planalto,Nonoai
-4314704,4315909,RS,RS,Planalto,Rodeio Bonito
-4314779,4315313,RS,RS,Pontão,Quatro Irmãos
-4314779,4316105,RS,RS,Pontão,Ronda Alta
-4314779,4320107,RS,RS,Pontão,Sarandi
-4314779,4320503,RS,RS,Pontão,Sertão
-4314787,4310900,RS,RS,Ponte Preta,Jacutinga
-4314787,4314134,RS,RS,Ponte Preta,Paulo Bento
-4314787,4319703,RS,RS,Ponte Preta,São Valentim
 4315008,4315073,RS,RS,Porto Lucena,Porto Vera Cruz
 4315008,4315107,RS,RS,Porto Lucena,Porto Xavier
-4315008,4317905,RS,RS,Porto Lucena,Santo Cristo
-4315008,4319307,RS,RS,Porto Lucena,São Paulo das Missões
 4315057,4313425,RS,RS,Porto Mauá,Novo Machado
+4315057,4300307,RS,RS,Porto Mauá,Alecrim
 4315073,4315008,RS,RS,Porto Vera Cruz,Porto Lucena
-4315073,4317905,RS,RS,Porto Vera Cruz,Santo Cristo
+4315073,4300307,RS,RS,Porto Vera Cruz,Alecrim
 4315107,4315008,RS,RS,Porto Xavier,Porto Lucena
 4315107,4316303,RS,RS,Porto Xavier,Roque Gonzales
-4315107,4319307,RS,RS,Porto Xavier,São Paulo das Missões
 4315305,4317103,RS,RS,Quaraí,Sant'Ana do Livramento
-4315313,4310900,RS,RS,Quatro Irmãos,Jacutinga
-4315313,4314134,RS,RS,Quatro Irmãos,Paulo Bento
-4315313,4314779,RS,RS,Quatro Irmãos,Pontão
-4315313,4316105,RS,RS,Quatro Irmãos,Ronda Alta
-4315313,4320503,RS,RS,Quatro Irmãos,Sertão
-4315404,4312302,RS,RS,Redentora,Miraguaí
-4315552,4312708,RS,RS,Rio dos Índios,Nonoai
-4315602,4314407,RS,RS,Rio Grande,Pelotas
-4315602,4317301,RS,RS,Rio Grande,Santa Vitória do Palmar
-4315602,4301305,RS,RS,Rio Grande,Arroio Grande
-4315909,4311601,RS,RS,Rodeio Bonito,Liberato Salzano
-4315909,4312708,RS,RS,Rodeio Bonito,Nonoai
-4315909,4313441,RS,RS,Rodeio Bonito,Novo Tiradentes
-4315909,4314456,RS,RS,Rodeio Bonito,Pinhal
-4315909,4314704,RS,RS,Rodeio Bonito,Planalto
-4315958,4312179,RS,RS,Rolador,Mato Queimado
-4315958,4316303,RS,RS,Rolador,Roque Gonzales
-4315958,4316477,RS,RS,Rolador,Salvador das Missões
-4315958,4318903,RS,RS,Rolador,São Luiz Gonzaga
-4315958,4319372,RS,RS,Rolador,São Pedro do Butiá
-4316105,4310900,RS,RS,Ronda Alta,Jacutinga
-4316105,4314779,RS,RS,Ronda Alta,Pontão
-4316105,4315313,RS,RS,Ronda Alta,Quatro Irmãos
-4316105,4316204,RS,RS,Ronda Alta,Rondinha
-4316105,4320107,RS,RS,Ronda Alta,Sarandi
-4316204,4313466,RS,RS,Rondinha,Novo Xingu
-4316204,4316105,RS,RS,Rondinha,Ronda Alta
-4316204,4320107,RS,RS,Rondinha,Sarandi
+4315305,4322400,RS,RS,Quaraí,Uruguaiana
 4316303,4314555,RS,RS,Roque Gonzales,Pirapó
 4316303,4315107,RS,RS,Roque Gonzales,Porto Xavier
-4316303,4315958,RS,RS,Roque Gonzales,Rolador
-4316303,4318903,RS,RS,Roque Gonzales,São Luiz Gonzaga
-4316303,4319307,RS,RS,Roque Gonzales,São Paulo das Missões
-4316303,4319372,RS,RS,Roque Gonzales,São Pedro do Butiá
-4316428,4311429,RS,RS,Sagrada Família,Lajeado do Bugre
-4316428,4313466,RS,RS,Sagrada Família,Novo Xingu
-4316428,4318457,RS,RS,Sagrada Família,São José das Missões
-4316428,4319364,RS,RS,Sagrada Família,São Pedro das Missões
-4316436,4316709,RS,RS,Saldanha Marinho,Santa Bárbara do Sul
-4316477,4315958,RS,RS,Salvador das Missões,Rolador
-4316477,4319307,RS,RS,Salvador das Missões,São Paulo das Missões
-4316477,4319372,RS,RS,Salvador das Missões,São Pedro do Butiá
-4316709,4313706,RS,RS,Santa Bárbara do Sul,Palmeira das Missões
-4316709,4313904,RS,RS,Santa Bárbara do Sul,Panambi
-4316709,4314308,RS,RS,Santa Bárbara do Sul,Pejuçara
-4316709,4316436,RS,RS,Santa Bárbara do Sul,Saldanha Marinho
-4316972,4311502,RS,RS,Santa Margarida do Sul,Lavras do Sul
-4316972,4318309,RS,RS,Santa Margarida do Sul,São Gabriel
-4317004,4314506,RS,RS,Santana da Boa Vista,Pinheiro Machado
-4317004,4314605,RS,RS,Santana da Boa Vista,Piratini
 4317103,4315305,RS,RS,Sant'Ana do Livramento,Quaraí
-4317202,4317905,RS,RS,Santa Rosa,Santo Cristo
-4317202,4320321,RS,RS,Santa Rosa,Senador Salgado Filho
-4317301,4315602,RS,RS,Santa Vitória do Palmar,Rio Grande
-4317400,4310553,RS,RS,Santiago,Itacurubi
-4317400,4311106,RS,RS,Santiago,Jaguari
-4317400,4313037,RS,RS,Santiago,Nova Esperança do Sul
-4317509,4320578,RS,RS,Santo Ângelo,Sete de Setembro
-4317707,4310553,RS,RS,Santo Antônio das Missões,Itacurubi
-4317707,4318002,RS,RS,Santo Antônio das Missões,São Borja
-4317707,4318903,RS,RS,Santo Antônio das Missões,São Luiz Gonzaga
-4317707,4319208,RS,RS,Santo Antônio das Missões,São Nicolau
-4317806,4313334,RS,RS,Santo Augusto,Nova Ramada
-4317806,4313706,RS,RS,Santo Augusto,Palmeira das Missões
-4317806,4319109,RS,RS,Santo Augusto,São Martinho
-4317806,4319737,RS,RS,Santo Augusto,São Valério do Sul
-4317905,4315008,RS,RS,Santo Cristo,Porto Lucena
-4317905,4315073,RS,RS,Santo Cristo,Porto Vera Cruz
-4317905,4317202,RS,RS,Santo Cristo,Santa Rosa
-4318002,4310553,RS,RS,São Borja,Itacurubi
+4317103,4306601,RS,RS,Sant'Ana do Livramento,Dom Pedrito
+4317301,4305439,RS,RS,Santa Vitória do Palmar,Chuí
 4318002,4310603,RS,RS,São Borja,Itaqui
-4318002,4311718,RS,RS,São Borja,Maçambará
-4318002,4317707,RS,RS,São Borja,Santo Antônio das Missões
-4318309,4311502,RS,RS,São Gabriel,Lavras do Sul
-4318309,4316972,RS,RS,São Gabriel,Santa Margarida do Sul
-4318309,4319604,RS,RS,São Gabriel,São Sepé
-4318457,4313466,RS,RS,São José das Missões,Novo Xingu
-4318457,4313490,RS,RS,São José das Missões,Novo Barreiro
-4318457,4313706,RS,RS,São José das Missões,Palmeira das Missões
-4318457,4316428,RS,RS,São José das Missões,Sagrada Família
-4318457,4319364,RS,RS,São José das Missões,São Pedro das Missões
-4318457,4320107,RS,RS,São José das Missões,Sarandi
-4318499,4319109,RS,RS,São José do Inhacorá,São Martinho
-4318804,4314407,RS,RS,São Lourenço do Sul,Pelotas
-4318903,4315958,RS,RS,São Luiz Gonzaga,Rolador
-4318903,4316303,RS,RS,São Luiz Gonzaga,Roque Gonzales
-4318903,4317707,RS,RS,São Luiz Gonzaga,Santo Antônio das Missões
-4318903,4319158,RS,RS,São Luiz Gonzaga,São Miguel das Missões
-4318903,4319208,RS,RS,São Luiz Gonzaga,São Nicolau
-4319109,4317806,RS,RS,São Martinho,Santo Augusto
-4319109,4318499,RS,RS,São Martinho,São José do Inhacorá
-4319109,4319737,RS,RS,São Martinho,São Valério do Sul
-4319109,4320230,RS,RS,São Martinho,Sede Nova
-4319158,4311155,RS,RS,São Miguel das Missões,Jóia
-4319158,4318903,RS,RS,São Miguel das Missões,São Luiz Gonzaga
+4318002,4308656,RS,RS,São Borja,Garruchos
 4319208,4314555,RS,RS,São Nicolau,Pirapó
-4319208,4317707,RS,RS,São Nicolau,Santo Antônio das Missões
-4319208,4318903,RS,RS,São Nicolau,São Luiz Gonzaga
-4319307,4315008,RS,RS,São Paulo das Missões,Porto Lucena
-4319307,4315107,RS,RS,São Paulo das Missões,Porto Xavier
-4319307,4316303,RS,RS,São Paulo das Missões,Roque Gonzales
-4319307,4316477,RS,RS,São Paulo das Missões,Salvador das Missões
-4319307,4319372,RS,RS,São Paulo das Missões,São Pedro do Butiá
-4319364,4311429,RS,RS,São Pedro das Missões,Lajeado do Bugre
-4319364,4313706,RS,RS,São Pedro das Missões,Palmeira das Missões
-4319364,4316428,RS,RS,São Pedro das Missões,Sagrada Família
-4319364,4318457,RS,RS,São Pedro das Missões,São José das Missões
-4319372,4315958,RS,RS,São Pedro do Butiá,Rolador
-4319372,4316303,RS,RS,São Pedro do Butiá,Roque Gonzales
-4319372,4316477,RS,RS,São Pedro do Butiá,Salvador das Missões
-4319372,4319307,RS,RS,São Pedro do Butiá,São Paulo das Missões
-4319604,4311502,RS,RS,São Sepé,Lavras do Sul
-4319604,4318309,RS,RS,São Sepé,São Gabriel
-4319703,4310702,RS,RS,São Valentim,Itatiba do Sul
-4319703,4314787,RS,RS,São Valentim,Ponte Preta
-4319737,4310413,RS,RS,São Valério do Sul,Inhacorá
-4319737,4317806,RS,RS,São Valério do Sul,Santo Augusto
-4319737,4319109,RS,RS,São Valério do Sul,São Martinho
-4320107,4312955,RS,RS,Sarandi,Nova Boa Vista
-4320107,4313466,RS,RS,Sarandi,Novo Xingu
-4320107,4313490,RS,RS,Sarandi,Novo Barreiro
-4320107,4314779,RS,RS,Sarandi,Pontão
-4320107,4316105,RS,RS,Sarandi,Ronda Alta
-4320107,4316204,RS,RS,Sarandi,Rondinha
-4320107,4318457,RS,RS,Sarandi,São José das Missões
-4320206,4310850,RS,RS,Seberi,Jaboticaba
-4320206,4314456,RS,RS,Seberi,Pinhal
-4320206,4321329,RS,RS,Seberi,Taquaruçu do Sul
-4320230,4319109,RS,RS,Sede Nova,São Martinho
-4320321,4317202,RS,RS,Senador Salgado Filho,Santa Rosa
-4320321,4320578,RS,RS,Senador Salgado Filho,Sete de Setembro
-4320503,4314779,RS,RS,Sertão,Pontão
-4320503,4315313,RS,RS,Sertão,Quatro Irmãos
-4320578,4317509,RS,RS,Sete de Setembro,Santo Ângelo
-4320578,4320321,RS,RS,Sete de Setembro,Senador Salgado Filho
-4321329,4313805,RS,RS,Taquaruçu do Sul,Palmitinho
-4321329,4320206,RS,RS,Taquaruçu do Sul,Seberi
-4321402,4321907,RS,RS,Tenente Portela,Três Passos
-4321402,4323705,RS,RS,Tenente Portela,Vista Gaúcha
-4321477,4321907,RS,RS,Tiradentes do Sul,Três Passos
+4319208,4308656,RS,RS,São Nicolau,Garruchos
 4321477,4306007,RS,RS,Tiradentes do Sul,Crissiumal
-4321808,4322103,RS,RS,Três de Maio,Tucunduva
-4321857,4321956,RS,RS,Três Palmeiras,Trindade do Sul
-4321907,4321402,RS,RS,Três Passos,Tenente Portela
-4321907,4321477,RS,RS,Três Passos,Tiradentes do Sul
-4321956,4321857,RS,RS,Trindade do Sul,Três Palmeiras
-4322103,4321808,RS,RS,Tucunduva,Três de Maio
-4322103,4322301,RS,RS,Tucunduva,Tuparendi
-4322301,4322103,RS,RS,Tuparendi,Tucunduva
-4323705,4321402,RS,RS,Vista Gaúcha,Tenente Portela
+4321477,4307450,RS,RS,Tiradentes do Sul,Esperança do Sul
+4322400,4310603,RS,RS,Uruguaina,Itaqui
+4322400,4301875,RS,RS,Uruguaina,Barra do Quaraí
 5000906,5002100,MS,MS,Antônio João,Bela Vista
 5000906,5006606,MS,MS,Antônio João,Ponta Porã
 5001243,5003157,MS,MS,Aral Moreira,Coronel Sapucaia
